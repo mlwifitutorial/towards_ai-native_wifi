@@ -1,0 +1,2590 @@
+0.000000000000000000;A2;B00; Start()
+0.000000000000000;A2;F00; ComputeNewConfiguration()
+1.010000000000000;A2;F00; RequestInformationToAp() (request #0)
+1.010000000000000;A2;F00; InportReceivingInformationFromAp()
+1.010000000000000;A2;C03;  - Action (0):
+1.010000000000000;A2;C03;    · channel = 0
+1.010000000000000;A2;C03;    · cca = -82.000000 dBm
+1.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+1.010000000000000;A2;C03;    · max_bandwidth = 1
+1.010000000000000;A2;C03;  - Performance:
+1.010000000000000;A2;C03;    · Average throughput = 108.94 Mbps
+1.010000000000000;A2;C03;    · Average delay = 0.0057 s
+1.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+1.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+1.010000000000000;A2;C03;    · Associated reward = 0.106715
+2.010000000000000;A2;F00; RequestInformationToAp() (request #1)
+2.010000000000000;A2;F00; InportReceivingInformationFromAp()
+2.010000000000000;A2;C03;  - Action (0):
+2.010000000000000;A2;C03;    · channel = 0
+2.010000000000000;A2;C03;    · cca = -82.000000 dBm
+2.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+2.010000000000000;A2;C03;    · max_bandwidth = 1
+2.010000000000000;A2;C03;  - Performance:
+2.010000000000000;A2;C03;    · Average throughput = 110.03 Mbps
+2.010000000000000;A2;C03;    · Average delay = 0.0057 s
+2.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+2.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+2.010000000000000;A2;C03;    · Associated reward = 0.000000
+3.010000000000000;A2;F00; RequestInformationToAp() (request #2)
+3.010000000000000;A2;F00; InportReceivingInformationFromAp()
+3.010000000000000;A2;C03;  - Action (0):
+3.010000000000000;A2;C03;    · channel = 0
+3.010000000000000;A2;C03;    · cca = -82.000000 dBm
+3.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+3.010000000000000;A2;C03;    · max_bandwidth = 1
+3.010000000000000;A2;C03;  - Performance:
+3.010000000000000;A2;C03;    · Average throughput = 110.66 Mbps
+3.010000000000000;A2;C03;    · Average delay = 0.0057 s
+3.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+3.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+3.010000000000000;A2;C03;    · Associated reward = 0.000000
+4.010000000000000;A2;F00; RequestInformationToAp() (request #3)
+4.010000000000000;A2;F00; InportReceivingInformationFromAp()
+4.010000000000000;A2;C03;  - Action (0):
+4.010000000000000;A2;C03;    · channel = 0
+4.010000000000000;A2;C03;    · cca = -82.000000 dBm
+4.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+4.010000000000000;A2;C03;    · max_bandwidth = 1
+4.010000000000000;A2;C03;  - Performance:
+4.010000000000000;A2;C03;    · Average throughput = 110.03 Mbps
+4.010000000000000;A2;C03;    · Average delay = 0.0057 s
+4.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+4.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+4.010000000000000;A2;C03;    · Associated reward = 0.000000
+5.010000000000000;A2;F00; RequestInformationToAp() (request #4)
+5.010000000000000;A2;F00; InportReceivingInformationFromAp()
+5.010000000000000;A2;C03;  - Action (0):
+5.010000000000000;A2;C03;    · channel = 0
+5.010000000000000;A2;C03;    · cca = -82.000000 dBm
+5.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+5.010000000000000;A2;C03;    · max_bandwidth = 1
+5.010000000000000;A2;C03;  - Performance:
+5.010000000000000;A2;C03;    · Average throughput = 110.66 Mbps
+5.010000000000000;A2;C03;    · Average delay = 0.0057 s
+5.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+5.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+5.010000000000000;A2;C03;    · Associated reward = 0.000000
+6.010000000000000;A2;F00; RequestInformationToAp() (request #5)
+6.010000000000000;A2;F00; InportReceivingInformationFromAp()
+6.010000000000000;A2;C03;  - Action (0):
+6.010000000000000;A2;C03;    · channel = 0
+6.010000000000000;A2;C03;    · cca = -82.000000 dBm
+6.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+6.010000000000000;A2;C03;    · max_bandwidth = 1
+6.010000000000000;A2;C03;  - Performance:
+6.010000000000000;A2;C03;    · Average throughput = 110.03 Mbps
+6.010000000000000;A2;C03;    · Average delay = 0.0057 s
+6.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+6.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+6.010000000000000;A2;C03;    · Associated reward = 0.000000
+7.010000000000000;A2;F00; RequestInformationToAp() (request #6)
+7.010000000000000;A2;F00; InportReceivingInformationFromAp()
+7.010000000000000;A2;C03;  - Action (0):
+7.010000000000000;A2;C03;    · channel = 0
+7.010000000000000;A2;C03;    · cca = -82.000000 dBm
+7.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+7.010000000000000;A2;C03;    · max_bandwidth = 1
+7.010000000000000;A2;C03;  - Performance:
+7.010000000000000;A2;C03;    · Average throughput = 110.66 Mbps
+7.010000000000000;A2;C03;    · Average delay = 0.0057 s
+7.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+7.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+7.010000000000000;A2;C03;    · Associated reward = 0.000000
+8.010000000000000;A2;F00; RequestInformationToAp() (request #7)
+8.010000000000000;A2;F00; InportReceivingInformationFromAp()
+8.010000000000000;A2;C03;  - Action (0):
+8.010000000000000;A2;C03;    · channel = 0
+8.010000000000000;A2;C03;    · cca = -82.000000 dBm
+8.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+8.010000000000000;A2;C03;    · max_bandwidth = 1
+8.010000000000000;A2;C03;  - Performance:
+8.010000000000000;A2;C03;    · Average throughput = 110.03 Mbps
+8.010000000000000;A2;C03;    · Average delay = 0.0057 s
+8.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+8.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+8.010000000000000;A2;C03;    · Associated reward = 0.000000
+9.010000000000000;A2;F00; RequestInformationToAp() (request #8)
+9.010000000000000;A2;F00; InportReceivingInformationFromAp()
+9.010000000000000;A2;C03;  - Action (0):
+9.010000000000000;A2;C03;    · channel = 0
+9.010000000000000;A2;C03;    · cca = -82.000000 dBm
+9.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+9.010000000000000;A2;C03;    · max_bandwidth = 1
+9.010000000000000;A2;C03;  - Performance:
+9.010000000000000;A2;C03;    · Average throughput = 110.66 Mbps
+9.010000000000000;A2;C03;    · Average delay = 0.0057 s
+9.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+9.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+9.010000000000000;A2;C03;    · Associated reward = 0.000000
+10.010000000000000;A2;F00; RequestInformationToAp() (request #9)
+10.010000000000000;A2;F00; InportReceivingInformationFromAp()
+10.010000000000000;A2;C03;  - Action (0):
+10.010000000000000;A2;C03;    · channel = 0
+10.010000000000000;A2;C03;    · cca = -82.000000 dBm
+10.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+10.010000000000000;A2;C03;    · max_bandwidth = 1
+10.010000000000000;A2;C03;  - Performance:
+10.010000000000000;A2;C03;    · Average throughput = 110.03 Mbps
+10.010000000000000;A2;C03;    · Average delay = 0.0057 s
+10.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+10.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+10.010000000000000;A2;C03;    · Associated reward = 0.000000
+11.010000000000000;A2;F00; RequestInformationToAp() (request #10)
+11.010000000000000;A2;F00; InportReceivingInformationFromAp()
+11.010000000000000;A2;C03;  - Action (0):
+11.010000000000000;A2;C03;    · channel = 0
+11.010000000000000;A2;C03;    · cca = -82.000000 dBm
+11.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+11.010000000000000;A2;C03;    · max_bandwidth = 1
+11.010000000000000;A2;C03;  - Performance:
+11.010000000000000;A2;C03;    · Average throughput = 110.66 Mbps
+11.010000000000000;A2;C03;    · Average delay = 0.0057 s
+11.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+11.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+11.010000000000000;A2;C03;    · Associated reward = 0.000000
+12.010000000000000;A2;F00; RequestInformationToAp() (request #11)
+12.010000000000000;A2;F00; InportReceivingInformationFromAp()
+12.010000000000000;A2;C03;  - Action (0):
+12.010000000000000;A2;C03;    · channel = 0
+12.010000000000000;A2;C03;    · cca = -82.000000 dBm
+12.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+12.010000000000000;A2;C03;    · max_bandwidth = 1
+12.010000000000000;A2;C03;  - Performance:
+12.010000000000000;A2;C03;    · Average throughput = 104.94 Mbps
+12.010000000000000;A2;C03;    · Average delay = 0.0057 s
+12.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+12.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+12.010000000000000;A2;C03;    · Associated reward = 0.000000
+13.010000000000000;A2;F00; RequestInformationToAp() (request #12)
+13.010000000000000;A2;F00; InportReceivingInformationFromAp()
+13.010000000000000;A2;C03;  - Action (0):
+13.010000000000000;A2;C03;    · channel = 0
+13.010000000000000;A2;C03;    · cca = -82.000000 dBm
+13.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+13.010000000000000;A2;C03;    · max_bandwidth = 1
+13.010000000000000;A2;C03;  - Performance:
+13.010000000000000;A2;C03;    · Average throughput = 89.68 Mbps
+13.010000000000000;A2;C03;    · Average delay = 0.0057 s
+13.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+13.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+13.010000000000000;A2;C03;    · Associated reward = 0.000000
+14.010000000000000;A2;F00; RequestInformationToAp() (request #13)
+14.010000000000000;A2;F00; InportReceivingInformationFromAp()
+14.010000000000000;A2;C03;  - Action (0):
+14.010000000000000;A2;C03;    · channel = 0
+14.010000000000000;A2;C03;    · cca = -82.000000 dBm
+14.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+14.010000000000000;A2;C03;    · max_bandwidth = 1
+14.010000000000000;A2;C03;  - Performance:
+14.010000000000000;A2;C03;    · Average throughput = 91.58 Mbps
+14.010000000000000;A2;C03;    · Average delay = 0.0057 s
+14.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+14.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+14.010000000000000;A2;C03;    · Associated reward = 0.000000
+15.010000000000000;A2;F00; RequestInformationToAp() (request #14)
+15.010000000000000;A2;F00; InportReceivingInformationFromAp()
+15.010000000000000;A2;C03;  - Action (0):
+15.010000000000000;A2;C03;    · channel = 0
+15.010000000000000;A2;C03;    · cca = -82.000000 dBm
+15.010000000000000;A2;C03;    · tx_power = 20.000000 dBm
+15.010000000000000;A2;C03;    · max_bandwidth = 1
+15.010000000000000;A2;C03;  - Performance:
+15.010000000000000;A2;C03;    · Average throughput = 84.59 Mbps
+15.010000000000000;A2;C03;    · Average delay = 0.0057 s
+15.010000000000000;A2;C03;    · Maximum delay = 0.0057 s
+15.010000000000000;A2;C03;    · Minimum delay = 0.0057 s
+15.010000000000000;A2;C03;    · Associated reward = 0.000000
+16.010000000000002;A2;F00; RequestInformationToAp() (request #15)
+16.010000000000002;A2;F00; InportReceivingInformationFromAp()
+16.010000000000002;A2;C03;  - Action (0):
+16.010000000000002;A2;C03;    · channel = 0
+16.010000000000002;A2;C03;    · cca = -82.000000 dBm
+16.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+16.010000000000002;A2;C03;    · max_bandwidth = 1
+16.010000000000002;A2;C03;  - Performance:
+16.010000000000002;A2;C03;    · Average throughput = 96.04 Mbps
+16.010000000000002;A2;C03;    · Average delay = 0.0057 s
+16.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+16.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+16.010000000000002;A2;C03;    · Associated reward = 0.000000
+17.010000000000002;A2;F00; RequestInformationToAp() (request #16)
+17.010000000000002;A2;F00; InportReceivingInformationFromAp()
+17.010000000000002;A2;C03;  - Action (0):
+17.010000000000002;A2;C03;    · channel = 0
+17.010000000000002;A2;C03;    · cca = -82.000000 dBm
+17.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+17.010000000000002;A2;C03;    · max_bandwidth = 1
+17.010000000000002;A2;C03;  - Performance:
+17.010000000000002;A2;C03;    · Average throughput = 110.03 Mbps
+17.010000000000002;A2;C03;    · Average delay = 0.0057 s
+17.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+17.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+17.010000000000002;A2;C03;    · Associated reward = 0.000000
+18.010000000000002;A2;F00; RequestInformationToAp() (request #17)
+18.010000000000002;A2;F00; InportReceivingInformationFromAp()
+18.010000000000002;A2;C03;  - Action (0):
+18.010000000000002;A2;C03;    · channel = 0
+18.010000000000002;A2;C03;    · cca = -82.000000 dBm
+18.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+18.010000000000002;A2;C03;    · max_bandwidth = 1
+18.010000000000002;A2;C03;  - Performance:
+18.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+18.010000000000002;A2;C03;    · Average delay = 0.0057 s
+18.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+18.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+18.010000000000002;A2;C03;    · Associated reward = 0.000000
+19.010000000000002;A2;F00; RequestInformationToAp() (request #18)
+19.010000000000002;A2;F00; InportReceivingInformationFromAp()
+19.010000000000002;A2;C03;  - Action (0):
+19.010000000000002;A2;C03;    · channel = 0
+19.010000000000002;A2;C03;    · cca = -82.000000 dBm
+19.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+19.010000000000002;A2;C03;    · max_bandwidth = 1
+19.010000000000002;A2;C03;  - Performance:
+19.010000000000002;A2;C03;    · Average throughput = 110.03 Mbps
+19.010000000000002;A2;C03;    · Average delay = 0.0057 s
+19.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+19.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+19.010000000000002;A2;C03;    · Associated reward = 0.000000
+20.010000000000002;A2;F00; RequestInformationToAp() (request #19)
+20.010000000000002;A2;F00; InportReceivingInformationFromAp()
+20.010000000000002;A2;C03;  - Action (0):
+20.010000000000002;A2;C03;    · channel = 0
+20.010000000000002;A2;C03;    · cca = -82.000000 dBm
+20.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+20.010000000000002;A2;C03;    · max_bandwidth = 1
+20.010000000000002;A2;C03;  - Performance:
+20.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+20.010000000000002;A2;C03;    · Average delay = 0.0057 s
+20.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+20.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+20.010000000000002;A2;C03;    · Associated reward = 0.000000
+21.010000000000002;A2;F00; RequestInformationToAp() (request #20)
+21.010000000000002;A2;F00; InportReceivingInformationFromAp()
+21.010000000000002;A2;C03;  - Action (0):
+21.010000000000002;A2;C03;    · channel = 0
+21.010000000000002;A2;C03;    · cca = -82.000000 dBm
+21.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+21.010000000000002;A2;C03;    · max_bandwidth = 1
+21.010000000000002;A2;C03;  - Performance:
+21.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+21.010000000000002;A2;C03;    · Average delay = 0.0057 s
+21.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+21.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+21.010000000000002;A2;C03;    · Associated reward = 0.000000
+22.010000000000002;A2;F00; RequestInformationToAp() (request #21)
+22.010000000000002;A2;F00; InportReceivingInformationFromAp()
+22.010000000000002;A2;C03;  - Action (0):
+22.010000000000002;A2;C03;    · channel = 0
+22.010000000000002;A2;C03;    · cca = -82.000000 dBm
+22.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+22.010000000000002;A2;C03;    · max_bandwidth = 1
+22.010000000000002;A2;C03;  - Performance:
+22.010000000000002;A2;C03;    · Average throughput = 106.85 Mbps
+22.010000000000002;A2;C03;    · Average delay = 0.0057 s
+22.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+22.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+22.010000000000002;A2;C03;    · Associated reward = 0.000000
+23.010000000000002;A2;F00; RequestInformationToAp() (request #22)
+23.010000000000002;A2;F00; InportReceivingInformationFromAp()
+23.010000000000002;A2;C03;  - Action (0):
+23.010000000000002;A2;C03;    · channel = 0
+23.010000000000002;A2;C03;    · cca = -82.000000 dBm
+23.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+23.010000000000002;A2;C03;    · max_bandwidth = 1
+23.010000000000002;A2;C03;  - Performance:
+23.010000000000002;A2;C03;    · Average throughput = 82.68 Mbps
+23.010000000000002;A2;C03;    · Average delay = 0.0057 s
+23.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+23.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+23.010000000000002;A2;C03;    · Associated reward = 0.000000
+24.010000000000002;A2;F00; RequestInformationToAp() (request #23)
+24.010000000000002;A2;F00; InportReceivingInformationFromAp()
+24.010000000000002;A2;C03;  - Action (0):
+24.010000000000002;A2;C03;    · channel = 0
+24.010000000000002;A2;C03;    · cca = -82.000000 dBm
+24.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+24.010000000000002;A2;C03;    · max_bandwidth = 1
+24.010000000000002;A2;C03;  - Performance:
+24.010000000000002;A2;C03;    · Average throughput = 78.23 Mbps
+24.010000000000002;A2;C03;    · Average delay = 0.0057 s
+24.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+24.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+24.010000000000002;A2;C03;    · Associated reward = 0.000000
+25.010000000000002;A2;F00; RequestInformationToAp() (request #24)
+25.010000000000002;A2;F00; InportReceivingInformationFromAp()
+25.010000000000002;A2;C03;  - Action (0):
+25.010000000000002;A2;C03;    · channel = 0
+25.010000000000002;A2;C03;    · cca = -82.000000 dBm
+25.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+25.010000000000002;A2;C03;    · max_bandwidth = 1
+25.010000000000002;A2;C03;  - Performance:
+25.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+25.010000000000002;A2;C03;    · Average delay = 0.0057 s
+25.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+25.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+25.010000000000002;A2;C03;    · Associated reward = 0.000000
+26.010000000000002;A2;F00; RequestInformationToAp() (request #25)
+26.010000000000002;A2;F00; InportReceivingInformationFromAp()
+26.010000000000002;A2;C03;  - Action (0):
+26.010000000000002;A2;C03;    · channel = 0
+26.010000000000002;A2;C03;    · cca = -82.000000 dBm
+26.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+26.010000000000002;A2;C03;    · max_bandwidth = 1
+26.010000000000002;A2;C03;  - Performance:
+26.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+26.010000000000002;A2;C03;    · Average delay = 0.0057 s
+26.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+26.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+26.010000000000002;A2;C03;    · Associated reward = 0.000000
+27.010000000000002;A2;F00; RequestInformationToAp() (request #26)
+27.010000000000002;A2;F00; InportReceivingInformationFromAp()
+27.010000000000002;A2;C03;  - Action (0):
+27.010000000000002;A2;C03;    · channel = 0
+27.010000000000002;A2;C03;    · cca = -82.000000 dBm
+27.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+27.010000000000002;A2;C03;    · max_bandwidth = 1
+27.010000000000002;A2;C03;  - Performance:
+27.010000000000002;A2;C03;    · Average throughput = 110.03 Mbps
+27.010000000000002;A2;C03;    · Average delay = 0.0057 s
+27.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+27.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+27.010000000000002;A2;C03;    · Associated reward = 0.000000
+28.010000000000002;A2;F00; RequestInformationToAp() (request #27)
+28.010000000000002;A2;F00; InportReceivingInformationFromAp()
+28.010000000000002;A2;C03;  - Action (0):
+28.010000000000002;A2;C03;    · channel = 0
+28.010000000000002;A2;C03;    · cca = -82.000000 dBm
+28.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+28.010000000000002;A2;C03;    · max_bandwidth = 1
+28.010000000000002;A2;C03;  - Performance:
+28.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+28.010000000000002;A2;C03;    · Average delay = 0.0057 s
+28.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+28.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+28.010000000000002;A2;C03;    · Associated reward = 0.000000
+29.010000000000002;A2;F00; RequestInformationToAp() (request #28)
+29.010000000000002;A2;F00; InportReceivingInformationFromAp()
+29.010000000000002;A2;C03;  - Action (0):
+29.010000000000002;A2;C03;    · channel = 0
+29.010000000000002;A2;C03;    · cca = -82.000000 dBm
+29.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+29.010000000000002;A2;C03;    · max_bandwidth = 1
+29.010000000000002;A2;C03;  - Performance:
+29.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+29.010000000000002;A2;C03;    · Average delay = 0.0057 s
+29.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+29.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+29.010000000000002;A2;C03;    · Associated reward = 0.000000
+30.010000000000002;A2;F00; RequestInformationToAp() (request #29)
+30.010000000000002;A2;F00; InportReceivingInformationFromAp()
+30.010000000000002;A2;C03;  - Action (0):
+30.010000000000002;A2;C03;    · channel = 0
+30.010000000000002;A2;C03;    · cca = -82.000000 dBm
+30.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+30.010000000000002;A2;C03;    · max_bandwidth = 1
+30.010000000000002;A2;C03;  - Performance:
+30.010000000000002;A2;C03;    · Average throughput = 110.03 Mbps
+30.010000000000002;A2;C03;    · Average delay = 0.0057 s
+30.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+30.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+30.010000000000002;A2;C03;    · Associated reward = 0.000000
+31.010000000000002;A2;F00; RequestInformationToAp() (request #30)
+31.010000000000002;A2;F00; InportReceivingInformationFromAp()
+31.010000000000002;A2;C03;  - Action (0):
+31.010000000000002;A2;C03;    · channel = 0
+31.010000000000002;A2;C03;    · cca = -82.000000 dBm
+31.010000000000002;A2;C03;    · tx_power = 20.000000 dBm
+31.010000000000002;A2;C03;    · max_bandwidth = 1
+31.010000000000002;A2;C03;  - Performance:
+31.010000000000002;A2;C03;    · Average throughput = 110.66 Mbps
+31.010000000000002;A2;C03;    · Average delay = 0.0057 s
+31.010000000000002;A2;C03;    · Maximum delay = 0.0057 s
+31.010000000000002;A2;C03;    · Minimum delay = 0.0057 s
+31.010000000000002;A2;C03;    · Associated reward = 0.000000
+32.009999999999998;A2;F00; RequestInformationToAp() (request #31)
+32.009999999999998;A2;F00; InportReceivingInformationFromAp()
+32.009999999999998;A2;C03;  - Action (0):
+32.009999999999998;A2;C03;    · channel = 0
+32.009999999999998;A2;C03;    · cca = -82.000000 dBm
+32.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+32.009999999999998;A2;C03;    · max_bandwidth = 1
+32.009999999999998;A2;C03;  - Performance:
+32.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+32.009999999999998;A2;C03;    · Average delay = 0.0057 s
+32.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+32.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+32.009999999999998;A2;C03;    · Associated reward = 0.000000
+33.009999999999998;A2;F00; RequestInformationToAp() (request #32)
+33.009999999999998;A2;F00; InportReceivingInformationFromAp()
+33.009999999999998;A2;C03;  - Action (0):
+33.009999999999998;A2;C03;    · channel = 0
+33.009999999999998;A2;C03;    · cca = -82.000000 dBm
+33.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+33.009999999999998;A2;C03;    · max_bandwidth = 1
+33.009999999999998;A2;C03;  - Performance:
+33.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+33.009999999999998;A2;C03;    · Average delay = 0.0057 s
+33.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+33.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+33.009999999999998;A2;C03;    · Associated reward = 0.000000
+34.009999999999998;A2;F00; RequestInformationToAp() (request #33)
+34.009999999999998;A2;F00; InportReceivingInformationFromAp()
+34.009999999999998;A2;C03;  - Action (0):
+34.009999999999998;A2;C03;    · channel = 0
+34.009999999999998;A2;C03;    · cca = -82.000000 dBm
+34.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+34.009999999999998;A2;C03;    · max_bandwidth = 1
+34.009999999999998;A2;C03;  - Performance:
+34.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+34.009999999999998;A2;C03;    · Average delay = 0.0057 s
+34.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+34.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+34.009999999999998;A2;C03;    · Associated reward = 0.000000
+35.009999999999998;A2;F00; RequestInformationToAp() (request #34)
+35.009999999999998;A2;F00; InportReceivingInformationFromAp()
+35.009999999999998;A2;C03;  - Action (0):
+35.009999999999998;A2;C03;    · channel = 0
+35.009999999999998;A2;C03;    · cca = -82.000000 dBm
+35.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+35.009999999999998;A2;C03;    · max_bandwidth = 1
+35.009999999999998;A2;C03;  - Performance:
+35.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+35.009999999999998;A2;C03;    · Average delay = 0.0057 s
+35.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+35.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+35.009999999999998;A2;C03;    · Associated reward = 0.000000
+36.009999999999998;A2;F00; RequestInformationToAp() (request #35)
+36.009999999999998;A2;F00; InportReceivingInformationFromAp()
+36.009999999999998;A2;C03;  - Action (0):
+36.009999999999998;A2;C03;    · channel = 0
+36.009999999999998;A2;C03;    · cca = -82.000000 dBm
+36.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+36.009999999999998;A2;C03;    · max_bandwidth = 1
+36.009999999999998;A2;C03;  - Performance:
+36.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+36.009999999999998;A2;C03;    · Average delay = 0.0057 s
+36.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+36.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+36.009999999999998;A2;C03;    · Associated reward = 0.000000
+37.009999999999998;A2;F00; RequestInformationToAp() (request #36)
+37.009999999999998;A2;F00; InportReceivingInformationFromAp()
+37.009999999999998;A2;C03;  - Action (0):
+37.009999999999998;A2;C03;    · channel = 0
+37.009999999999998;A2;C03;    · cca = -82.000000 dBm
+37.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+37.009999999999998;A2;C03;    · max_bandwidth = 1
+37.009999999999998;A2;C03;  - Performance:
+37.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+37.009999999999998;A2;C03;    · Average delay = 0.0057 s
+37.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+37.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+37.009999999999998;A2;C03;    · Associated reward = 0.000000
+38.009999999999998;A2;F00; RequestInformationToAp() (request #37)
+38.009999999999998;A2;F00; InportReceivingInformationFromAp()
+38.009999999999998;A2;C03;  - Action (0):
+38.009999999999998;A2;C03;    · channel = 0
+38.009999999999998;A2;C03;    · cca = -82.000000 dBm
+38.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+38.009999999999998;A2;C03;    · max_bandwidth = 1
+38.009999999999998;A2;C03;  - Performance:
+38.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+38.009999999999998;A2;C03;    · Average delay = 0.0057 s
+38.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+38.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+38.009999999999998;A2;C03;    · Associated reward = 0.000000
+39.009999999999998;A2;F00; RequestInformationToAp() (request #38)
+39.009999999999998;A2;F00; InportReceivingInformationFromAp()
+39.009999999999998;A2;C03;  - Action (0):
+39.009999999999998;A2;C03;    · channel = 0
+39.009999999999998;A2;C03;    · cca = -82.000000 dBm
+39.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+39.009999999999998;A2;C03;    · max_bandwidth = 1
+39.009999999999998;A2;C03;  - Performance:
+39.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+39.009999999999998;A2;C03;    · Average delay = 0.0057 s
+39.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+39.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+39.009999999999998;A2;C03;    · Associated reward = 0.000000
+40.009999999999998;A2;F00; RequestInformationToAp() (request #39)
+40.009999999999998;A2;F00; InportReceivingInformationFromAp()
+40.009999999999998;A2;C03;  - Action (0):
+40.009999999999998;A2;C03;    · channel = 0
+40.009999999999998;A2;C03;    · cca = -82.000000 dBm
+40.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+40.009999999999998;A2;C03;    · max_bandwidth = 1
+40.009999999999998;A2;C03;  - Performance:
+40.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+40.009999999999998;A2;C03;    · Average delay = 0.0057 s
+40.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+40.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+40.009999999999998;A2;C03;    · Associated reward = 0.000000
+41.009999999999998;A2;F00; RequestInformationToAp() (request #40)
+41.009999999999998;A2;F00; InportReceivingInformationFromAp()
+41.009999999999998;A2;C03;  - Action (0):
+41.009999999999998;A2;C03;    · channel = 0
+41.009999999999998;A2;C03;    · cca = -82.000000 dBm
+41.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+41.009999999999998;A2;C03;    · max_bandwidth = 1
+41.009999999999998;A2;C03;  - Performance:
+41.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+41.009999999999998;A2;C03;    · Average delay = 0.0057 s
+41.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+41.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+41.009999999999998;A2;C03;    · Associated reward = 0.000000
+42.009999999999998;A2;F00; RequestInformationToAp() (request #41)
+42.009999999999998;A2;F00; InportReceivingInformationFromAp()
+42.009999999999998;A2;C03;  - Action (0):
+42.009999999999998;A2;C03;    · channel = 0
+42.009999999999998;A2;C03;    · cca = -82.000000 dBm
+42.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+42.009999999999998;A2;C03;    · max_bandwidth = 1
+42.009999999999998;A2;C03;  - Performance:
+42.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+42.009999999999998;A2;C03;    · Average delay = 0.0057 s
+42.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+42.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+42.009999999999998;A2;C03;    · Associated reward = 0.000000
+43.009999999999998;A2;F00; RequestInformationToAp() (request #42)
+43.009999999999998;A2;F00; InportReceivingInformationFromAp()
+43.009999999999998;A2;C03;  - Action (0):
+43.009999999999998;A2;C03;    · channel = 0
+43.009999999999998;A2;C03;    · cca = -82.000000 dBm
+43.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+43.009999999999998;A2;C03;    · max_bandwidth = 1
+43.009999999999998;A2;C03;  - Performance:
+43.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+43.009999999999998;A2;C03;    · Average delay = 0.0057 s
+43.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+43.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+43.009999999999998;A2;C03;    · Associated reward = 0.000000
+44.009999999999998;A2;F00; RequestInformationToAp() (request #43)
+44.009999999999998;A2;F00; InportReceivingInformationFromAp()
+44.009999999999998;A2;C03;  - Action (0):
+44.009999999999998;A2;C03;    · channel = 0
+44.009999999999998;A2;C03;    · cca = -82.000000 dBm
+44.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+44.009999999999998;A2;C03;    · max_bandwidth = 1
+44.009999999999998;A2;C03;  - Performance:
+44.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+44.009999999999998;A2;C03;    · Average delay = 0.0057 s
+44.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+44.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+44.009999999999998;A2;C03;    · Associated reward = 0.000000
+45.009999999999998;A2;F00; RequestInformationToAp() (request #44)
+45.009999999999998;A2;F00; InportReceivingInformationFromAp()
+45.009999999999998;A2;C03;  - Action (0):
+45.009999999999998;A2;C03;    · channel = 0
+45.009999999999998;A2;C03;    · cca = -82.000000 dBm
+45.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+45.009999999999998;A2;C03;    · max_bandwidth = 1
+45.009999999999998;A2;C03;  - Performance:
+45.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+45.009999999999998;A2;C03;    · Average delay = 0.0057 s
+45.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+45.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+45.009999999999998;A2;C03;    · Associated reward = 0.000000
+46.009999999999998;A2;F00; RequestInformationToAp() (request #45)
+46.009999999999998;A2;F00; InportReceivingInformationFromAp()
+46.009999999999998;A2;C03;  - Action (0):
+46.009999999999998;A2;C03;    · channel = 0
+46.009999999999998;A2;C03;    · cca = -82.000000 dBm
+46.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+46.009999999999998;A2;C03;    · max_bandwidth = 1
+46.009999999999998;A2;C03;  - Performance:
+46.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+46.009999999999998;A2;C03;    · Average delay = 0.0057 s
+46.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+46.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+46.009999999999998;A2;C03;    · Associated reward = 0.000000
+47.009999999999998;A2;F00; RequestInformationToAp() (request #46)
+47.009999999999998;A2;F00; InportReceivingInformationFromAp()
+47.009999999999998;A2;C03;  - Action (0):
+47.009999999999998;A2;C03;    · channel = 0
+47.009999999999998;A2;C03;    · cca = -82.000000 dBm
+47.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+47.009999999999998;A2;C03;    · max_bandwidth = 1
+47.009999999999998;A2;C03;  - Performance:
+47.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+47.009999999999998;A2;C03;    · Average delay = 0.0057 s
+47.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+47.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+47.009999999999998;A2;C03;    · Associated reward = 0.000000
+48.009999999999998;A2;F00; RequestInformationToAp() (request #47)
+48.009999999999998;A2;F00; InportReceivingInformationFromAp()
+48.009999999999998;A2;C03;  - Action (0):
+48.009999999999998;A2;C03;    · channel = 0
+48.009999999999998;A2;C03;    · cca = -82.000000 dBm
+48.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+48.009999999999998;A2;C03;    · max_bandwidth = 1
+48.009999999999998;A2;C03;  - Performance:
+48.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+48.009999999999998;A2;C03;    · Average delay = 0.0057 s
+48.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+48.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+48.009999999999998;A2;C03;    · Associated reward = 0.000000
+49.009999999999998;A2;F00; RequestInformationToAp() (request #48)
+49.009999999999998;A2;F00; InportReceivingInformationFromAp()
+49.009999999999998;A2;C03;  - Action (0):
+49.009999999999998;A2;C03;    · channel = 0
+49.009999999999998;A2;C03;    · cca = -82.000000 dBm
+49.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+49.009999999999998;A2;C03;    · max_bandwidth = 1
+49.009999999999998;A2;C03;  - Performance:
+49.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+49.009999999999998;A2;C03;    · Average delay = 0.0057 s
+49.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+49.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+49.009999999999998;A2;C03;    · Associated reward = 0.000000
+50.009999999999998;A2;F00; RequestInformationToAp() (request #49)
+50.009999999999998;A2;F00; InportReceivingInformationFromAp()
+50.009999999999998;A2;C03;  - Action (0):
+50.009999999999998;A2;C03;    · channel = 0
+50.009999999999998;A2;C03;    · cca = -82.000000 dBm
+50.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+50.009999999999998;A2;C03;    · max_bandwidth = 1
+50.009999999999998;A2;C03;  - Performance:
+50.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+50.009999999999998;A2;C03;    · Average delay = 0.0057 s
+50.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+50.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+50.009999999999998;A2;C03;    · Associated reward = 0.000000
+51.009999999999998;A2;F00; RequestInformationToAp() (request #50)
+51.009999999999998;A2;F00; InportReceivingInformationFromAp()
+51.009999999999998;A2;C03;  - Action (0):
+51.009999999999998;A2;C03;    · channel = 0
+51.009999999999998;A2;C03;    · cca = -82.000000 dBm
+51.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+51.009999999999998;A2;C03;    · max_bandwidth = 1
+51.009999999999998;A2;C03;  - Performance:
+51.009999999999998;A2;C03;    · Average throughput = 89.68 Mbps
+51.009999999999998;A2;C03;    · Average delay = 0.0057 s
+51.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+51.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+51.009999999999998;A2;C03;    · Associated reward = 0.000000
+52.009999999999998;A2;F00; RequestInformationToAp() (request #51)
+52.009999999999998;A2;F00; InportReceivingInformationFromAp()
+52.009999999999998;A2;C03;  - Action (0):
+52.009999999999998;A2;C03;    · channel = 0
+52.009999999999998;A2;C03;    · cca = -82.000000 dBm
+52.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+52.009999999999998;A2;C03;    · max_bandwidth = 1
+52.009999999999998;A2;C03;  - Performance:
+52.009999999999998;A2;C03;    · Average throughput = 103.03 Mbps
+52.009999999999998;A2;C03;    · Average delay = 0.0057 s
+52.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+52.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+52.009999999999998;A2;C03;    · Associated reward = 0.000000
+53.009999999999998;A2;F00; RequestInformationToAp() (request #52)
+53.009999999999998;A2;F00; InportReceivingInformationFromAp()
+53.009999999999998;A2;C03;  - Action (0):
+53.009999999999998;A2;C03;    · channel = 0
+53.009999999999998;A2;C03;    · cca = -82.000000 dBm
+53.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+53.009999999999998;A2;C03;    · max_bandwidth = 1
+53.009999999999998;A2;C03;  - Performance:
+53.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+53.009999999999998;A2;C03;    · Average delay = 0.0057 s
+53.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+53.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+53.009999999999998;A2;C03;    · Associated reward = 0.000000
+54.009999999999998;A2;F00; RequestInformationToAp() (request #53)
+54.009999999999998;A2;F00; InportReceivingInformationFromAp()
+54.009999999999998;A2;C03;  - Action (0):
+54.009999999999998;A2;C03;    · channel = 0
+54.009999999999998;A2;C03;    · cca = -82.000000 dBm
+54.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+54.009999999999998;A2;C03;    · max_bandwidth = 1
+54.009999999999998;A2;C03;  - Performance:
+54.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+54.009999999999998;A2;C03;    · Average delay = 0.0057 s
+54.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+54.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+54.009999999999998;A2;C03;    · Associated reward = 0.000000
+55.009999999999998;A2;F00; RequestInformationToAp() (request #54)
+55.009999999999998;A2;F00; InportReceivingInformationFromAp()
+55.009999999999998;A2;C03;  - Action (0):
+55.009999999999998;A2;C03;    · channel = 0
+55.009999999999998;A2;C03;    · cca = -82.000000 dBm
+55.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+55.009999999999998;A2;C03;    · max_bandwidth = 1
+55.009999999999998;A2;C03;  - Performance:
+55.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+55.009999999999998;A2;C03;    · Average delay = 0.0057 s
+55.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+55.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+55.009999999999998;A2;C03;    · Associated reward = 0.000000
+56.009999999999998;A2;F00; RequestInformationToAp() (request #55)
+56.009999999999998;A2;F00; InportReceivingInformationFromAp()
+56.009999999999998;A2;C03;  - Action (0):
+56.009999999999998;A2;C03;    · channel = 0
+56.009999999999998;A2;C03;    · cca = -82.000000 dBm
+56.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+56.009999999999998;A2;C03;    · max_bandwidth = 1
+56.009999999999998;A2;C03;  - Performance:
+56.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+56.009999999999998;A2;C03;    · Average delay = 0.0057 s
+56.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+56.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+56.009999999999998;A2;C03;    · Associated reward = 0.000000
+57.009999999999998;A2;F00; RequestInformationToAp() (request #56)
+57.009999999999998;A2;F00; InportReceivingInformationFromAp()
+57.009999999999998;A2;C03;  - Action (0):
+57.009999999999998;A2;C03;    · channel = 0
+57.009999999999998;A2;C03;    · cca = -82.000000 dBm
+57.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+57.009999999999998;A2;C03;    · max_bandwidth = 1
+57.009999999999998;A2;C03;  - Performance:
+57.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+57.009999999999998;A2;C03;    · Average delay = 0.0057 s
+57.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+57.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+57.009999999999998;A2;C03;    · Associated reward = 0.000000
+58.009999999999998;A2;F00; RequestInformationToAp() (request #57)
+58.009999999999998;A2;F00; InportReceivingInformationFromAp()
+58.009999999999998;A2;C03;  - Action (0):
+58.009999999999998;A2;C03;    · channel = 0
+58.009999999999998;A2;C03;    · cca = -82.000000 dBm
+58.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+58.009999999999998;A2;C03;    · max_bandwidth = 1
+58.009999999999998;A2;C03;  - Performance:
+58.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+58.009999999999998;A2;C03;    · Average delay = 0.0057 s
+58.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+58.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+58.009999999999998;A2;C03;    · Associated reward = 0.000000
+59.009999999999998;A2;F00; RequestInformationToAp() (request #58)
+59.009999999999998;A2;F00; InportReceivingInformationFromAp()
+59.009999999999998;A2;C03;  - Action (0):
+59.009999999999998;A2;C03;    · channel = 0
+59.009999999999998;A2;C03;    · cca = -82.000000 dBm
+59.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+59.009999999999998;A2;C03;    · max_bandwidth = 1
+59.009999999999998;A2;C03;  - Performance:
+59.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+59.009999999999998;A2;C03;    · Average delay = 0.0057 s
+59.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+59.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+59.009999999999998;A2;C03;    · Associated reward = 0.000000
+60.009999999999998;A2;F00; RequestInformationToAp() (request #59)
+60.009999999999998;A2;F00; InportReceivingInformationFromAp()
+60.009999999999998;A2;C03;  - Action (0):
+60.009999999999998;A2;C03;    · channel = 0
+60.009999999999998;A2;C03;    · cca = -82.000000 dBm
+60.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+60.009999999999998;A2;C03;    · max_bandwidth = 1
+60.009999999999998;A2;C03;  - Performance:
+60.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+60.009999999999998;A2;C03;    · Average delay = 0.0057 s
+60.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+60.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+60.009999999999998;A2;C03;    · Associated reward = 0.000000
+61.009999999999998;A2;F00; RequestInformationToAp() (request #60)
+61.009999999999998;A2;F00; InportReceivingInformationFromAp()
+61.009999999999998;A2;C03;  - Action (0):
+61.009999999999998;A2;C03;    · channel = 0
+61.009999999999998;A2;C03;    · cca = -82.000000 dBm
+61.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+61.009999999999998;A2;C03;    · max_bandwidth = 1
+61.009999999999998;A2;C03;  - Performance:
+61.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+61.009999999999998;A2;C03;    · Average delay = 0.0057 s
+61.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+61.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+61.009999999999998;A2;C03;    · Associated reward = 0.000000
+62.009999999999998;A2;F00; RequestInformationToAp() (request #61)
+62.009999999999998;A2;F00; InportReceivingInformationFromAp()
+62.009999999999998;A2;C03;  - Action (0):
+62.009999999999998;A2;C03;    · channel = 0
+62.009999999999998;A2;C03;    · cca = -82.000000 dBm
+62.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+62.009999999999998;A2;C03;    · max_bandwidth = 1
+62.009999999999998;A2;C03;  - Performance:
+62.009999999999998;A2;C03;    · Average throughput = 110.03 Mbps
+62.009999999999998;A2;C03;    · Average delay = 0.0057 s
+62.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+62.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+62.009999999999998;A2;C03;    · Associated reward = 0.000000
+63.009999999999998;A2;F00; RequestInformationToAp() (request #62)
+63.009999999999998;A2;F00; InportReceivingInformationFromAp()
+63.009999999999998;A2;C03;  - Action (0):
+63.009999999999998;A2;C03;    · channel = 0
+63.009999999999998;A2;C03;    · cca = -82.000000 dBm
+63.009999999999998;A2;C03;    · tx_power = 20.000000 dBm
+63.009999999999998;A2;C03;    · max_bandwidth = 1
+63.009999999999998;A2;C03;  - Performance:
+63.009999999999998;A2;C03;    · Average throughput = 110.66 Mbps
+63.009999999999998;A2;C03;    · Average delay = 0.0057 s
+63.009999999999998;A2;C03;    · Maximum delay = 0.0057 s
+63.009999999999998;A2;C03;    · Minimum delay = 0.0057 s
+63.009999999999998;A2;C03;    · Associated reward = 0.000000
+64.010000000000005;A2;F00; RequestInformationToAp() (request #63)
+64.010000000000005;A2;F00; InportReceivingInformationFromAp()
+64.010000000000005;A2;C03;  - Action (0):
+64.010000000000005;A2;C03;    · channel = 0
+64.010000000000005;A2;C03;    · cca = -82.000000 dBm
+64.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+64.010000000000005;A2;C03;    · max_bandwidth = 1
+64.010000000000005;A2;C03;  - Performance:
+64.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+64.010000000000005;A2;C03;    · Average delay = 0.0057 s
+64.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+64.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+64.010000000000005;A2;C03;    · Associated reward = 0.000000
+65.010000000000005;A2;F00; RequestInformationToAp() (request #64)
+65.010000000000005;A2;F00; InportReceivingInformationFromAp()
+65.010000000000005;A2;C03;  - Action (0):
+65.010000000000005;A2;C03;    · channel = 0
+65.010000000000005;A2;C03;    · cca = -82.000000 dBm
+65.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+65.010000000000005;A2;C03;    · max_bandwidth = 1
+65.010000000000005;A2;C03;  - Performance:
+65.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+65.010000000000005;A2;C03;    · Average delay = 0.0057 s
+65.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+65.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+65.010000000000005;A2;C03;    · Associated reward = 0.000000
+66.010000000000005;A2;F00; RequestInformationToAp() (request #65)
+66.010000000000005;A2;F00; InportReceivingInformationFromAp()
+66.010000000000005;A2;C03;  - Action (0):
+66.010000000000005;A2;C03;    · channel = 0
+66.010000000000005;A2;C03;    · cca = -82.000000 dBm
+66.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+66.010000000000005;A2;C03;    · max_bandwidth = 1
+66.010000000000005;A2;C03;  - Performance:
+66.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+66.010000000000005;A2;C03;    · Average delay = 0.0057 s
+66.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+66.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+66.010000000000005;A2;C03;    · Associated reward = 0.000000
+67.010000000000005;A2;F00; RequestInformationToAp() (request #66)
+67.010000000000005;A2;F00; InportReceivingInformationFromAp()
+67.010000000000005;A2;C03;  - Action (0):
+67.010000000000005;A2;C03;    · channel = 0
+67.010000000000005;A2;C03;    · cca = -82.000000 dBm
+67.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+67.010000000000005;A2;C03;    · max_bandwidth = 1
+67.010000000000005;A2;C03;  - Performance:
+67.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+67.010000000000005;A2;C03;    · Average delay = 0.0057 s
+67.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+67.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+67.010000000000005;A2;C03;    · Associated reward = 0.000000
+68.010000000000005;A2;F00; RequestInformationToAp() (request #67)
+68.010000000000005;A2;F00; InportReceivingInformationFromAp()
+68.010000000000005;A2;C03;  - Action (0):
+68.010000000000005;A2;C03;    · channel = 0
+68.010000000000005;A2;C03;    · cca = -82.000000 dBm
+68.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+68.010000000000005;A2;C03;    · max_bandwidth = 1
+68.010000000000005;A2;C03;  - Performance:
+68.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+68.010000000000005;A2;C03;    · Average delay = 0.0057 s
+68.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+68.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+68.010000000000005;A2;C03;    · Associated reward = 0.000000
+69.010000000000005;A2;F00; RequestInformationToAp() (request #68)
+69.010000000000005;A2;F00; InportReceivingInformationFromAp()
+69.010000000000005;A2;C03;  - Action (0):
+69.010000000000005;A2;C03;    · channel = 0
+69.010000000000005;A2;C03;    · cca = -82.000000 dBm
+69.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+69.010000000000005;A2;C03;    · max_bandwidth = 1
+69.010000000000005;A2;C03;  - Performance:
+69.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+69.010000000000005;A2;C03;    · Average delay = 0.0057 s
+69.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+69.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+69.010000000000005;A2;C03;    · Associated reward = 0.000000
+70.010000000000005;A2;F00; RequestInformationToAp() (request #69)
+70.010000000000005;A2;F00; InportReceivingInformationFromAp()
+70.010000000000005;A2;C03;  - Action (0):
+70.010000000000005;A2;C03;    · channel = 0
+70.010000000000005;A2;C03;    · cca = -82.000000 dBm
+70.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+70.010000000000005;A2;C03;    · max_bandwidth = 1
+70.010000000000005;A2;C03;  - Performance:
+70.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+70.010000000000005;A2;C03;    · Average delay = 0.0057 s
+70.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+70.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+70.010000000000005;A2;C03;    · Associated reward = 0.000000
+71.010000000000005;A2;F00; RequestInformationToAp() (request #70)
+71.010000000000005;A2;F00; InportReceivingInformationFromAp()
+71.010000000000005;A2;C03;  - Action (0):
+71.010000000000005;A2;C03;    · channel = 0
+71.010000000000005;A2;C03;    · cca = -82.000000 dBm
+71.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+71.010000000000005;A2;C03;    · max_bandwidth = 1
+71.010000000000005;A2;C03;  - Performance:
+71.010000000000005;A2;C03;    · Average throughput = 87.13 Mbps
+71.010000000000005;A2;C03;    · Average delay = 0.0057 s
+71.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+71.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+71.010000000000005;A2;C03;    · Associated reward = 0.000000
+72.010000000000005;A2;F00; RequestInformationToAp() (request #71)
+72.010000000000005;A2;F00; InportReceivingInformationFromAp()
+72.010000000000005;A2;C03;  - Action (0):
+72.010000000000005;A2;C03;    · channel = 0
+72.010000000000005;A2;C03;    · cca = -82.000000 dBm
+72.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+72.010000000000005;A2;C03;    · max_bandwidth = 1
+72.010000000000005;A2;C03;  - Performance:
+72.010000000000005;A2;C03;    · Average throughput = 83.95 Mbps
+72.010000000000005;A2;C03;    · Average delay = 0.0057 s
+72.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+72.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+72.010000000000005;A2;C03;    · Associated reward = 0.000000
+73.010000000000005;A2;F00; RequestInformationToAp() (request #72)
+73.010000000000005;A2;F00; InportReceivingInformationFromAp()
+73.010000000000005;A2;C03;  - Action (0):
+73.010000000000005;A2;C03;    · channel = 0
+73.010000000000005;A2;C03;    · cca = -82.000000 dBm
+73.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+73.010000000000005;A2;C03;    · max_bandwidth = 1
+73.010000000000005;A2;C03;  - Performance:
+73.010000000000005;A2;C03;    · Average throughput = 83.95 Mbps
+73.010000000000005;A2;C03;    · Average delay = 0.0057 s
+73.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+73.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+73.010000000000005;A2;C03;    · Associated reward = 0.000000
+74.010000000000005;A2;F00; RequestInformationToAp() (request #73)
+74.010000000000005;A2;F00; InportReceivingInformationFromAp()
+74.010000000000005;A2;C03;  - Action (0):
+74.010000000000005;A2;C03;    · channel = 0
+74.010000000000005;A2;C03;    · cca = -82.000000 dBm
+74.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+74.010000000000005;A2;C03;    · max_bandwidth = 1
+74.010000000000005;A2;C03;  - Performance:
+74.010000000000005;A2;C03;    · Average throughput = 82.04 Mbps
+74.010000000000005;A2;C03;    · Average delay = 0.0057 s
+74.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+74.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+74.010000000000005;A2;C03;    · Associated reward = 0.000000
+75.010000000000005;A2;F00; RequestInformationToAp() (request #74)
+75.010000000000005;A2;F00; InportReceivingInformationFromAp()
+75.010000000000005;A2;C03;  - Action (0):
+75.010000000000005;A2;C03;    · channel = 0
+75.010000000000005;A2;C03;    · cca = -82.000000 dBm
+75.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+75.010000000000005;A2;C03;    · max_bandwidth = 1
+75.010000000000005;A2;C03;  - Performance:
+75.010000000000005;A2;C03;    · Average throughput = 72.50 Mbps
+75.010000000000005;A2;C03;    · Average delay = 0.0057 s
+75.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+75.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+75.010000000000005;A2;C03;    · Associated reward = 0.000000
+76.010000000000005;A2;F00; RequestInformationToAp() (request #75)
+76.010000000000005;A2;F00; InportReceivingInformationFromAp()
+76.010000000000005;A2;C03;  - Action (0):
+76.010000000000005;A2;C03;    · channel = 0
+76.010000000000005;A2;C03;    · cca = -82.000000 dBm
+76.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+76.010000000000005;A2;C03;    · max_bandwidth = 1
+76.010000000000005;A2;C03;  - Performance:
+76.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+76.010000000000005;A2;C03;    · Average delay = 0.0057 s
+76.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+76.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+76.010000000000005;A2;C03;    · Associated reward = 0.000000
+77.010000000000005;A2;F00; RequestInformationToAp() (request #76)
+77.010000000000005;A2;F00; InportReceivingInformationFromAp()
+77.010000000000005;A2;C03;  - Action (0):
+77.010000000000005;A2;C03;    · channel = 0
+77.010000000000005;A2;C03;    · cca = -82.000000 dBm
+77.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+77.010000000000005;A2;C03;    · max_bandwidth = 1
+77.010000000000005;A2;C03;  - Performance:
+77.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+77.010000000000005;A2;C03;    · Average delay = 0.0057 s
+77.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+77.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+77.010000000000005;A2;C03;    · Associated reward = 0.000000
+78.010000000000005;A2;F00; RequestInformationToAp() (request #77)
+78.010000000000005;A2;F00; InportReceivingInformationFromAp()
+78.010000000000005;A2;C03;  - Action (0):
+78.010000000000005;A2;C03;    · channel = 0
+78.010000000000005;A2;C03;    · cca = -82.000000 dBm
+78.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+78.010000000000005;A2;C03;    · max_bandwidth = 1
+78.010000000000005;A2;C03;  - Performance:
+78.010000000000005;A2;C03;    · Average throughput = 101.12 Mbps
+78.010000000000005;A2;C03;    · Average delay = 0.0057 s
+78.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+78.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+78.010000000000005;A2;C03;    · Associated reward = 0.000000
+79.010000000000005;A2;F00; RequestInformationToAp() (request #78)
+79.010000000000005;A2;F00; InportReceivingInformationFromAp()
+79.010000000000005;A2;C03;  - Action (0):
+79.010000000000005;A2;C03;    · channel = 0
+79.010000000000005;A2;C03;    · cca = -82.000000 dBm
+79.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+79.010000000000005;A2;C03;    · max_bandwidth = 1
+79.010000000000005;A2;C03;  - Performance:
+79.010000000000005;A2;C03;    · Average throughput = 96.04 Mbps
+79.010000000000005;A2;C03;    · Average delay = 0.0057 s
+79.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+79.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+79.010000000000005;A2;C03;    · Associated reward = 0.000000
+80.010000000000005;A2;F00; RequestInformationToAp() (request #79)
+80.010000000000005;A2;F00; InportReceivingInformationFromAp()
+80.010000000000005;A2;C03;  - Action (0):
+80.010000000000005;A2;C03;    · channel = 0
+80.010000000000005;A2;C03;    · cca = -82.000000 dBm
+80.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+80.010000000000005;A2;C03;    · max_bandwidth = 1
+80.010000000000005;A2;C03;  - Performance:
+80.010000000000005;A2;C03;    · Average throughput = 91.58 Mbps
+80.010000000000005;A2;C03;    · Average delay = 0.0057 s
+80.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+80.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+80.010000000000005;A2;C03;    · Associated reward = 0.000000
+81.010000000000005;A2;F00; RequestInformationToAp() (request #80)
+81.010000000000005;A2;F00; InportReceivingInformationFromAp()
+81.010000000000005;A2;C03;  - Action (0):
+81.010000000000005;A2;C03;    · channel = 0
+81.010000000000005;A2;C03;    · cca = -82.000000 dBm
+81.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+81.010000000000005;A2;C03;    · max_bandwidth = 1
+81.010000000000005;A2;C03;  - Performance:
+81.010000000000005;A2;C03;    · Average throughput = 89.68 Mbps
+81.010000000000005;A2;C03;    · Average delay = 0.0057 s
+81.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+81.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+81.010000000000005;A2;C03;    · Associated reward = 0.000000
+82.010000000000005;A2;F00; RequestInformationToAp() (request #81)
+82.010000000000005;A2;F00; InportReceivingInformationFromAp()
+82.010000000000005;A2;C03;  - Action (0):
+82.010000000000005;A2;C03;    · channel = 0
+82.010000000000005;A2;C03;    · cca = -82.000000 dBm
+82.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+82.010000000000005;A2;C03;    · max_bandwidth = 1
+82.010000000000005;A2;C03;  - Performance:
+82.010000000000005;A2;C03;    · Average throughput = 99.22 Mbps
+82.010000000000005;A2;C03;    · Average delay = 0.0057 s
+82.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+82.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+82.010000000000005;A2;C03;    · Associated reward = 0.000000
+83.010000000000005;A2;F00; RequestInformationToAp() (request #82)
+83.010000000000005;A2;F00; InportReceivingInformationFromAp()
+83.010000000000005;A2;C03;  - Action (0):
+83.010000000000005;A2;C03;    · channel = 0
+83.010000000000005;A2;C03;    · cca = -82.000000 dBm
+83.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+83.010000000000005;A2;C03;    · max_bandwidth = 1
+83.010000000000005;A2;C03;  - Performance:
+83.010000000000005;A2;C03;    · Average throughput = 107.48 Mbps
+83.010000000000005;A2;C03;    · Average delay = 0.0057 s
+83.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+83.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+83.010000000000005;A2;C03;    · Associated reward = 0.000000
+84.010000000000005;A2;F00; RequestInformationToAp() (request #83)
+84.010000000000005;A2;F00; InportReceivingInformationFromAp()
+84.010000000000005;A2;C03;  - Action (0):
+84.010000000000005;A2;C03;    · channel = 0
+84.010000000000005;A2;C03;    · cca = -82.000000 dBm
+84.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+84.010000000000005;A2;C03;    · max_bandwidth = 1
+84.010000000000005;A2;C03;  - Performance:
+84.010000000000005;A2;C03;    · Average throughput = 108.76 Mbps
+84.010000000000005;A2;C03;    · Average delay = 0.0057 s
+84.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+84.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+84.010000000000005;A2;C03;    · Associated reward = 0.000000
+85.010000000000005;A2;F00; RequestInformationToAp() (request #84)
+85.010000000000005;A2;F00; InportReceivingInformationFromAp()
+85.010000000000005;A2;C03;  - Action (0):
+85.010000000000005;A2;C03;    · channel = 0
+85.010000000000005;A2;C03;    · cca = -82.000000 dBm
+85.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+85.010000000000005;A2;C03;    · max_bandwidth = 1
+85.010000000000005;A2;C03;  - Performance:
+85.010000000000005;A2;C03;    · Average throughput = 108.12 Mbps
+85.010000000000005;A2;C03;    · Average delay = 0.0057 s
+85.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+85.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+85.010000000000005;A2;C03;    · Associated reward = 0.000000
+86.010000000000005;A2;F00; RequestInformationToAp() (request #85)
+86.010000000000005;A2;F00; InportReceivingInformationFromAp()
+86.010000000000005;A2;C03;  - Action (0):
+86.010000000000005;A2;C03;    · channel = 0
+86.010000000000005;A2;C03;    · cca = -82.000000 dBm
+86.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+86.010000000000005;A2;C03;    · max_bandwidth = 1
+86.010000000000005;A2;C03;  - Performance:
+86.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+86.010000000000005;A2;C03;    · Average delay = 0.0057 s
+86.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+86.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+86.010000000000005;A2;C03;    · Associated reward = 0.000000
+87.010000000000005;A2;F00; RequestInformationToAp() (request #86)
+87.010000000000005;A2;F00; InportReceivingInformationFromAp()
+87.010000000000005;A2;C03;  - Action (0):
+87.010000000000005;A2;C03;    · channel = 0
+87.010000000000005;A2;C03;    · cca = -82.000000 dBm
+87.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+87.010000000000005;A2;C03;    · max_bandwidth = 1
+87.010000000000005;A2;C03;  - Performance:
+87.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+87.010000000000005;A2;C03;    · Average delay = 0.0057 s
+87.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+87.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+87.010000000000005;A2;C03;    · Associated reward = 0.000000
+88.010000000000005;A2;F00; RequestInformationToAp() (request #87)
+88.010000000000005;A2;F00; InportReceivingInformationFromAp()
+88.010000000000005;A2;C03;  - Action (0):
+88.010000000000005;A2;C03;    · channel = 0
+88.010000000000005;A2;C03;    · cca = -82.000000 dBm
+88.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+88.010000000000005;A2;C03;    · max_bandwidth = 1
+88.010000000000005;A2;C03;  - Performance:
+88.010000000000005;A2;C03;    · Average throughput = 96.04 Mbps
+88.010000000000005;A2;C03;    · Average delay = 0.0057 s
+88.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+88.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+88.010000000000005;A2;C03;    · Associated reward = 0.000000
+89.010000000000005;A2;F00; RequestInformationToAp() (request #88)
+89.010000000000005;A2;F00; InportReceivingInformationFromAp()
+89.010000000000005;A2;C03;  - Action (0):
+89.010000000000005;A2;C03;    · channel = 0
+89.010000000000005;A2;C03;    · cca = -82.000000 dBm
+89.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+89.010000000000005;A2;C03;    · max_bandwidth = 1
+89.010000000000005;A2;C03;  - Performance:
+89.010000000000005;A2;C03;    · Average throughput = 76.96 Mbps
+89.010000000000005;A2;C03;    · Average delay = 0.0057 s
+89.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+89.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+89.010000000000005;A2;C03;    · Associated reward = 0.000000
+90.010000000000005;A2;F00; RequestInformationToAp() (request #89)
+90.010000000000005;A2;F00; InportReceivingInformationFromAp()
+90.010000000000005;A2;C03;  - Action (0):
+90.010000000000005;A2;C03;    · channel = 0
+90.010000000000005;A2;C03;    · cca = -82.000000 dBm
+90.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+90.010000000000005;A2;C03;    · max_bandwidth = 1
+90.010000000000005;A2;C03;  - Performance:
+90.010000000000005;A2;C03;    · Average throughput = 88.40 Mbps
+90.010000000000005;A2;C03;    · Average delay = 0.0057 s
+90.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+90.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+90.010000000000005;A2;C03;    · Associated reward = 0.000000
+91.010000000000005;A2;F00; RequestInformationToAp() (request #90)
+91.010000000000005;A2;F00; InportReceivingInformationFromAp()
+91.010000000000005;A2;C03;  - Action (0):
+91.010000000000005;A2;C03;    · channel = 0
+91.010000000000005;A2;C03;    · cca = -82.000000 dBm
+91.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+91.010000000000005;A2;C03;    · max_bandwidth = 1
+91.010000000000005;A2;C03;  - Performance:
+91.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+91.010000000000005;A2;C03;    · Average delay = 0.0057 s
+91.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+91.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+91.010000000000005;A2;C03;    · Associated reward = 0.000000
+92.010000000000005;A2;F00; RequestInformationToAp() (request #91)
+92.010000000000005;A2;F00; InportReceivingInformationFromAp()
+92.010000000000005;A2;C03;  - Action (0):
+92.010000000000005;A2;C03;    · channel = 0
+92.010000000000005;A2;C03;    · cca = -82.000000 dBm
+92.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+92.010000000000005;A2;C03;    · max_bandwidth = 1
+92.010000000000005;A2;C03;  - Performance:
+92.010000000000005;A2;C03;    · Average throughput = 101.76 Mbps
+92.010000000000005;A2;C03;    · Average delay = 0.0057 s
+92.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+92.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+92.010000000000005;A2;C03;    · Associated reward = 0.000000
+93.010000000000005;A2;F00; RequestInformationToAp() (request #92)
+93.010000000000005;A2;F00; InportReceivingInformationFromAp()
+93.010000000000005;A2;C03;  - Action (0):
+93.010000000000005;A2;C03;    · channel = 0
+93.010000000000005;A2;C03;    · cca = -82.000000 dBm
+93.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+93.010000000000005;A2;C03;    · max_bandwidth = 1
+93.010000000000005;A2;C03;  - Performance:
+93.010000000000005;A2;C03;    · Average throughput = 97.31 Mbps
+93.010000000000005;A2;C03;    · Average delay = 0.0057 s
+93.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+93.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+93.010000000000005;A2;C03;    · Associated reward = 0.000000
+94.010000000000005;A2;F00; RequestInformationToAp() (request #93)
+94.010000000000005;A2;F00; InportReceivingInformationFromAp()
+94.010000000000005;A2;C03;  - Action (0):
+94.010000000000005;A2;C03;    · channel = 0
+94.010000000000005;A2;C03;    · cca = -82.000000 dBm
+94.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+94.010000000000005;A2;C03;    · max_bandwidth = 1
+94.010000000000005;A2;C03;  - Performance:
+94.010000000000005;A2;C03;    · Average throughput = 74.41 Mbps
+94.010000000000005;A2;C03;    · Average delay = 0.0057 s
+94.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+94.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+94.010000000000005;A2;C03;    · Associated reward = 0.000000
+95.010000000000005;A2;F00; RequestInformationToAp() (request #94)
+95.010000000000005;A2;F00; InportReceivingInformationFromAp()
+95.010000000000005;A2;C03;  - Action (0):
+95.010000000000005;A2;C03;    · channel = 0
+95.010000000000005;A2;C03;    · cca = -82.000000 dBm
+95.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+95.010000000000005;A2;C03;    · max_bandwidth = 1
+95.010000000000005;A2;C03;  - Performance:
+95.010000000000005;A2;C03;    · Average throughput = 101.76 Mbps
+95.010000000000005;A2;C03;    · Average delay = 0.0057 s
+95.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+95.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+95.010000000000005;A2;C03;    · Associated reward = 0.000000
+96.010000000000005;A2;F00; RequestInformationToAp() (request #95)
+96.010000000000005;A2;F00; InportReceivingInformationFromAp()
+96.010000000000005;A2;C03;  - Action (0):
+96.010000000000005;A2;C03;    · channel = 0
+96.010000000000005;A2;C03;    · cca = -82.000000 dBm
+96.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+96.010000000000005;A2;C03;    · max_bandwidth = 1
+96.010000000000005;A2;C03;  - Performance:
+96.010000000000005;A2;C03;    · Average throughput = 97.31 Mbps
+96.010000000000005;A2;C03;    · Average delay = 0.0057 s
+96.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+96.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+96.010000000000005;A2;C03;    · Associated reward = 0.000000
+97.010000000000005;A2;F00; RequestInformationToAp() (request #96)
+97.010000000000005;A2;F00; InportReceivingInformationFromAp()
+97.010000000000005;A2;C03;  - Action (0):
+97.010000000000005;A2;C03;    · channel = 0
+97.010000000000005;A2;C03;    · cca = -82.000000 dBm
+97.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+97.010000000000005;A2;C03;    · max_bandwidth = 1
+97.010000000000005;A2;C03;  - Performance:
+97.010000000000005;A2;C03;    · Average throughput = 90.31 Mbps
+97.010000000000005;A2;C03;    · Average delay = 0.0057 s
+97.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+97.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+97.010000000000005;A2;C03;    · Associated reward = 0.000000
+98.010000000000005;A2;F00; RequestInformationToAp() (request #97)
+98.010000000000005;A2;F00; InportReceivingInformationFromAp()
+98.010000000000005;A2;C03;  - Action (0):
+98.010000000000005;A2;C03;    · channel = 0
+98.010000000000005;A2;C03;    · cca = -82.000000 dBm
+98.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+98.010000000000005;A2;C03;    · max_bandwidth = 1
+98.010000000000005;A2;C03;  - Performance:
+98.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+98.010000000000005;A2;C03;    · Average delay = 0.0057 s
+98.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+98.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+98.010000000000005;A2;C03;    · Associated reward = 0.000000
+99.010000000000005;A2;F00; RequestInformationToAp() (request #98)
+99.010000000000005;A2;F00; InportReceivingInformationFromAp()
+99.010000000000005;A2;C03;  - Action (0):
+99.010000000000005;A2;C03;    · channel = 0
+99.010000000000005;A2;C03;    · cca = -82.000000 dBm
+99.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+99.010000000000005;A2;C03;    · max_bandwidth = 1
+99.010000000000005;A2;C03;  - Performance:
+99.010000000000005;A2;C03;    · Average throughput = 88.40 Mbps
+99.010000000000005;A2;C03;    · Average delay = 0.0057 s
+99.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+99.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+99.010000000000005;A2;C03;    · Associated reward = 0.000000
+100.010000000000005;A2;F00; RequestInformationToAp() (request #99)
+100.010000000000005;A2;F00; InportReceivingInformationFromAp()
+100.010000000000005;A2;C03;  - Action (0):
+100.010000000000005;A2;C03;    · channel = 0
+100.010000000000005;A2;C03;    · cca = -82.000000 dBm
+100.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+100.010000000000005;A2;C03;    · max_bandwidth = 1
+100.010000000000005;A2;C03;  - Performance:
+100.010000000000005;A2;C03;    · Average throughput = 83.32 Mbps
+100.010000000000005;A2;C03;    · Average delay = 0.0057 s
+100.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+100.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+100.010000000000005;A2;C03;    · Associated reward = 0.000000
+101.010000000000005;A2;F00; RequestInformationToAp() (request #100)
+101.010000000000005;A2;F00; InportReceivingInformationFromAp()
+101.010000000000005;A2;C03;  - Action (0):
+101.010000000000005;A2;C03;    · channel = 0
+101.010000000000005;A2;C03;    · cca = -82.000000 dBm
+101.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+101.010000000000005;A2;C03;    · max_bandwidth = 1
+101.010000000000005;A2;C03;  - Performance:
+101.010000000000005;A2;C03;    · Average throughput = 78.86 Mbps
+101.010000000000005;A2;C03;    · Average delay = 0.0057 s
+101.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+101.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+101.010000000000005;A2;C03;    · Associated reward = 0.000000
+102.010000000000005;A2;F00; RequestInformationToAp() (request #101)
+102.010000000000005;A2;F00; InportReceivingInformationFromAp()
+102.010000000000005;A2;C03;  - Action (0):
+102.010000000000005;A2;C03;    · channel = 0
+102.010000000000005;A2;C03;    · cca = -82.000000 dBm
+102.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+102.010000000000005;A2;C03;    · max_bandwidth = 1
+102.010000000000005;A2;C03;  - Performance:
+102.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+102.010000000000005;A2;C03;    · Average delay = 0.0057 s
+102.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+102.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+102.010000000000005;A2;C03;    · Associated reward = 0.000000
+103.010000000000005;A2;F00; RequestInformationToAp() (request #102)
+103.010000000000005;A2;F00; InportReceivingInformationFromAp()
+103.010000000000005;A2;C03;  - Action (0):
+103.010000000000005;A2;C03;    · channel = 0
+103.010000000000005;A2;C03;    · cca = -82.000000 dBm
+103.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+103.010000000000005;A2;C03;    · max_bandwidth = 1
+103.010000000000005;A2;C03;  - Performance:
+103.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+103.010000000000005;A2;C03;    · Average delay = 0.0057 s
+103.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+103.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+103.010000000000005;A2;C03;    · Associated reward = 0.000000
+104.010000000000005;A2;F00; RequestInformationToAp() (request #103)
+104.010000000000005;A2;F00; InportReceivingInformationFromAp()
+104.010000000000005;A2;C03;  - Action (0):
+104.010000000000005;A2;C03;    · channel = 0
+104.010000000000005;A2;C03;    · cca = -82.000000 dBm
+104.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+104.010000000000005;A2;C03;    · max_bandwidth = 1
+104.010000000000005;A2;C03;  - Performance:
+104.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+104.010000000000005;A2;C03;    · Average delay = 0.0057 s
+104.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+104.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+104.010000000000005;A2;C03;    · Associated reward = 0.000000
+105.010000000000005;A2;F00; RequestInformationToAp() (request #104)
+105.010000000000005;A2;F00; InportReceivingInformationFromAp()
+105.010000000000005;A2;C03;  - Action (0):
+105.010000000000005;A2;C03;    · channel = 0
+105.010000000000005;A2;C03;    · cca = -82.000000 dBm
+105.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+105.010000000000005;A2;C03;    · max_bandwidth = 1
+105.010000000000005;A2;C03;  - Performance:
+105.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+105.010000000000005;A2;C03;    · Average delay = 0.0057 s
+105.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+105.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+105.010000000000005;A2;C03;    · Associated reward = 0.000000
+106.010000000000005;A2;F00; RequestInformationToAp() (request #105)
+106.010000000000005;A2;F00; InportReceivingInformationFromAp()
+106.010000000000005;A2;C03;  - Action (0):
+106.010000000000005;A2;C03;    · channel = 0
+106.010000000000005;A2;C03;    · cca = -82.000000 dBm
+106.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+106.010000000000005;A2;C03;    · max_bandwidth = 1
+106.010000000000005;A2;C03;  - Performance:
+106.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+106.010000000000005;A2;C03;    · Average delay = 0.0057 s
+106.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+106.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+106.010000000000005;A2;C03;    · Associated reward = 0.000000
+107.010000000000005;A2;F00; RequestInformationToAp() (request #106)
+107.010000000000005;A2;F00; InportReceivingInformationFromAp()
+107.010000000000005;A2;C03;  - Action (0):
+107.010000000000005;A2;C03;    · channel = 0
+107.010000000000005;A2;C03;    · cca = -82.000000 dBm
+107.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+107.010000000000005;A2;C03;    · max_bandwidth = 1
+107.010000000000005;A2;C03;  - Performance:
+107.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+107.010000000000005;A2;C03;    · Average delay = 0.0057 s
+107.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+107.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+107.010000000000005;A2;C03;    · Associated reward = 0.000000
+108.010000000000005;A2;F00; RequestInformationToAp() (request #107)
+108.010000000000005;A2;F00; InportReceivingInformationFromAp()
+108.010000000000005;A2;C03;  - Action (0):
+108.010000000000005;A2;C03;    · channel = 0
+108.010000000000005;A2;C03;    · cca = -82.000000 dBm
+108.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+108.010000000000005;A2;C03;    · max_bandwidth = 1
+108.010000000000005;A2;C03;  - Performance:
+108.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+108.010000000000005;A2;C03;    · Average delay = 0.0057 s
+108.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+108.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+108.010000000000005;A2;C03;    · Associated reward = 0.000000
+109.010000000000005;A2;F00; RequestInformationToAp() (request #108)
+109.010000000000005;A2;F00; InportReceivingInformationFromAp()
+109.010000000000005;A2;C03;  - Action (0):
+109.010000000000005;A2;C03;    · channel = 0
+109.010000000000005;A2;C03;    · cca = -82.000000 dBm
+109.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+109.010000000000005;A2;C03;    · max_bandwidth = 1
+109.010000000000005;A2;C03;  - Performance:
+109.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+109.010000000000005;A2;C03;    · Average delay = 0.0057 s
+109.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+109.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+109.010000000000005;A2;C03;    · Associated reward = 0.000000
+110.010000000000005;A2;F00; RequestInformationToAp() (request #109)
+110.010000000000005;A2;F00; InportReceivingInformationFromAp()
+110.010000000000005;A2;C03;  - Action (0):
+110.010000000000005;A2;C03;    · channel = 0
+110.010000000000005;A2;C03;    · cca = -82.000000 dBm
+110.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+110.010000000000005;A2;C03;    · max_bandwidth = 1
+110.010000000000005;A2;C03;  - Performance:
+110.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+110.010000000000005;A2;C03;    · Average delay = 0.0057 s
+110.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+110.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+110.010000000000005;A2;C03;    · Associated reward = 0.000000
+111.010000000000005;A2;F00; RequestInformationToAp() (request #110)
+111.010000000000005;A2;F00; InportReceivingInformationFromAp()
+111.010000000000005;A2;C03;  - Action (0):
+111.010000000000005;A2;C03;    · channel = 0
+111.010000000000005;A2;C03;    · cca = -82.000000 dBm
+111.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+111.010000000000005;A2;C03;    · max_bandwidth = 1
+111.010000000000005;A2;C03;  - Performance:
+111.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+111.010000000000005;A2;C03;    · Average delay = 0.0057 s
+111.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+111.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+111.010000000000005;A2;C03;    · Associated reward = 0.000000
+112.010000000000005;A2;F00; RequestInformationToAp() (request #111)
+112.010000000000005;A2;F00; InportReceivingInformationFromAp()
+112.010000000000005;A2;C03;  - Action (0):
+112.010000000000005;A2;C03;    · channel = 0
+112.010000000000005;A2;C03;    · cca = -82.000000 dBm
+112.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+112.010000000000005;A2;C03;    · max_bandwidth = 1
+112.010000000000005;A2;C03;  - Performance:
+112.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+112.010000000000005;A2;C03;    · Average delay = 0.0057 s
+112.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+112.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+112.010000000000005;A2;C03;    · Associated reward = 0.000000
+113.010000000000005;A2;F00; RequestInformationToAp() (request #112)
+113.010000000000005;A2;F00; InportReceivingInformationFromAp()
+113.010000000000005;A2;C03;  - Action (0):
+113.010000000000005;A2;C03;    · channel = 0
+113.010000000000005;A2;C03;    · cca = -82.000000 dBm
+113.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+113.010000000000005;A2;C03;    · max_bandwidth = 1
+113.010000000000005;A2;C03;  - Performance:
+113.010000000000005;A2;C03;    · Average throughput = 108.76 Mbps
+113.010000000000005;A2;C03;    · Average delay = 0.0057 s
+113.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+113.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+113.010000000000005;A2;C03;    · Associated reward = 0.000000
+114.010000000000005;A2;F00; RequestInformationToAp() (request #113)
+114.010000000000005;A2;F00; InportReceivingInformationFromAp()
+114.010000000000005;A2;C03;  - Action (0):
+114.010000000000005;A2;C03;    · channel = 0
+114.010000000000005;A2;C03;    · cca = -82.000000 dBm
+114.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+114.010000000000005;A2;C03;    · max_bandwidth = 1
+114.010000000000005;A2;C03;  - Performance:
+114.010000000000005;A2;C03;    · Average throughput = 85.22 Mbps
+114.010000000000005;A2;C03;    · Average delay = 0.0057 s
+114.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+114.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+114.010000000000005;A2;C03;    · Associated reward = 0.000000
+115.010000000000005;A2;F00; RequestInformationToAp() (request #114)
+115.010000000000005;A2;F00; InportReceivingInformationFromAp()
+115.010000000000005;A2;C03;  - Action (0):
+115.010000000000005;A2;C03;    · channel = 0
+115.010000000000005;A2;C03;    · cca = -82.000000 dBm
+115.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+115.010000000000005;A2;C03;    · max_bandwidth = 1
+115.010000000000005;A2;C03;  - Performance:
+115.010000000000005;A2;C03;    · Average throughput = 74.41 Mbps
+115.010000000000005;A2;C03;    · Average delay = 0.0057 s
+115.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+115.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+115.010000000000005;A2;C03;    · Associated reward = 0.000000
+116.010000000000005;A2;F00; RequestInformationToAp() (request #115)
+116.010000000000005;A2;F00; InportReceivingInformationFromAp()
+116.010000000000005;A2;C03;  - Action (0):
+116.010000000000005;A2;C03;    · channel = 0
+116.010000000000005;A2;C03;    · cca = -82.000000 dBm
+116.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+116.010000000000005;A2;C03;    · max_bandwidth = 1
+116.010000000000005;A2;C03;  - Performance:
+116.010000000000005;A2;C03;    · Average throughput = 83.32 Mbps
+116.010000000000005;A2;C03;    · Average delay = 0.0057 s
+116.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+116.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+116.010000000000005;A2;C03;    · Associated reward = 0.000000
+117.010000000000005;A2;F00; RequestInformationToAp() (request #116)
+117.010000000000005;A2;F00; InportReceivingInformationFromAp()
+117.010000000000005;A2;C03;  - Action (0):
+117.010000000000005;A2;C03;    · channel = 0
+117.010000000000005;A2;C03;    · cca = -82.000000 dBm
+117.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+117.010000000000005;A2;C03;    · max_bandwidth = 1
+117.010000000000005;A2;C03;  - Performance:
+117.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+117.010000000000005;A2;C03;    · Average delay = 0.0057 s
+117.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+117.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+117.010000000000005;A2;C03;    · Associated reward = 0.000000
+118.010000000000005;A2;F00; RequestInformationToAp() (request #117)
+118.010000000000005;A2;F00; InportReceivingInformationFromAp()
+118.010000000000005;A2;C03;  - Action (0):
+118.010000000000005;A2;C03;    · channel = 0
+118.010000000000005;A2;C03;    · cca = -82.000000 dBm
+118.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+118.010000000000005;A2;C03;    · max_bandwidth = 1
+118.010000000000005;A2;C03;  - Performance:
+118.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+118.010000000000005;A2;C03;    · Average delay = 0.0057 s
+118.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+118.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+118.010000000000005;A2;C03;    · Associated reward = 0.000000
+119.010000000000005;A2;F00; RequestInformationToAp() (request #118)
+119.010000000000005;A2;F00; InportReceivingInformationFromAp()
+119.010000000000005;A2;C03;  - Action (0):
+119.010000000000005;A2;C03;    · channel = 0
+119.010000000000005;A2;C03;    · cca = -82.000000 dBm
+119.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+119.010000000000005;A2;C03;    · max_bandwidth = 1
+119.010000000000005;A2;C03;  - Performance:
+119.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+119.010000000000005;A2;C03;    · Average delay = 0.0057 s
+119.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+119.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+119.010000000000005;A2;C03;    · Associated reward = 0.000000
+120.010000000000005;A2;F00; RequestInformationToAp() (request #119)
+120.010000000000005;A2;F00; InportReceivingInformationFromAp()
+120.010000000000005;A2;C03;  - Action (0):
+120.010000000000005;A2;C03;    · channel = 0
+120.010000000000005;A2;C03;    · cca = -82.000000 dBm
+120.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+120.010000000000005;A2;C03;    · max_bandwidth = 1
+120.010000000000005;A2;C03;  - Performance:
+120.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+120.010000000000005;A2;C03;    · Average delay = 0.0057 s
+120.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+120.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+120.010000000000005;A2;C03;    · Associated reward = 0.000000
+121.010000000000005;A2;F00; RequestInformationToAp() (request #120)
+121.010000000000005;A2;F00; InportReceivingInformationFromAp()
+121.010000000000005;A2;C03;  - Action (0):
+121.010000000000005;A2;C03;    · channel = 0
+121.010000000000005;A2;C03;    · cca = -82.000000 dBm
+121.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+121.010000000000005;A2;C03;    · max_bandwidth = 1
+121.010000000000005;A2;C03;  - Performance:
+121.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+121.010000000000005;A2;C03;    · Average delay = 0.0057 s
+121.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+121.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+121.010000000000005;A2;C03;    · Associated reward = 0.000000
+122.010000000000005;A2;F00; RequestInformationToAp() (request #121)
+122.010000000000005;A2;F00; InportReceivingInformationFromAp()
+122.010000000000005;A2;C03;  - Action (0):
+122.010000000000005;A2;C03;    · channel = 0
+122.010000000000005;A2;C03;    · cca = -82.000000 dBm
+122.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+122.010000000000005;A2;C03;    · max_bandwidth = 1
+122.010000000000005;A2;C03;  - Performance:
+122.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+122.010000000000005;A2;C03;    · Average delay = 0.0057 s
+122.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+122.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+122.010000000000005;A2;C03;    · Associated reward = 0.000000
+123.010000000000005;A2;F00; RequestInformationToAp() (request #122)
+123.010000000000005;A2;F00; InportReceivingInformationFromAp()
+123.010000000000005;A2;C03;  - Action (0):
+123.010000000000005;A2;C03;    · channel = 0
+123.010000000000005;A2;C03;    · cca = -82.000000 dBm
+123.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+123.010000000000005;A2;C03;    · max_bandwidth = 1
+123.010000000000005;A2;C03;  - Performance:
+123.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+123.010000000000005;A2;C03;    · Average delay = 0.0057 s
+123.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+123.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+123.010000000000005;A2;C03;    · Associated reward = 0.000000
+124.010000000000005;A2;F00; RequestInformationToAp() (request #123)
+124.010000000000005;A2;F00; InportReceivingInformationFromAp()
+124.010000000000005;A2;C03;  - Action (0):
+124.010000000000005;A2;C03;    · channel = 0
+124.010000000000005;A2;C03;    · cca = -82.000000 dBm
+124.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+124.010000000000005;A2;C03;    · max_bandwidth = 1
+124.010000000000005;A2;C03;  - Performance:
+124.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+124.010000000000005;A2;C03;    · Average delay = 0.0057 s
+124.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+124.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+124.010000000000005;A2;C03;    · Associated reward = 0.000000
+125.010000000000005;A2;F00; RequestInformationToAp() (request #124)
+125.010000000000005;A2;F00; InportReceivingInformationFromAp()
+125.010000000000005;A2;C03;  - Action (0):
+125.010000000000005;A2;C03;    · channel = 0
+125.010000000000005;A2;C03;    · cca = -82.000000 dBm
+125.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+125.010000000000005;A2;C03;    · max_bandwidth = 1
+125.010000000000005;A2;C03;  - Performance:
+125.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+125.010000000000005;A2;C03;    · Average delay = 0.0057 s
+125.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+125.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+125.010000000000005;A2;C03;    · Associated reward = 0.000000
+126.010000000000005;A2;F00; RequestInformationToAp() (request #125)
+126.010000000000005;A2;F00; InportReceivingInformationFromAp()
+126.010000000000005;A2;C03;  - Action (0):
+126.010000000000005;A2;C03;    · channel = 0
+126.010000000000005;A2;C03;    · cca = -82.000000 dBm
+126.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+126.010000000000005;A2;C03;    · max_bandwidth = 1
+126.010000000000005;A2;C03;  - Performance:
+126.010000000000005;A2;C03;    · Average throughput = 110.66 Mbps
+126.010000000000005;A2;C03;    · Average delay = 0.0057 s
+126.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+126.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+126.010000000000005;A2;C03;    · Associated reward = 0.000000
+127.010000000000005;A2;F00; RequestInformationToAp() (request #126)
+127.010000000000005;A2;F00; InportReceivingInformationFromAp()
+127.010000000000005;A2;C03;  - Action (0):
+127.010000000000005;A2;C03;    · channel = 0
+127.010000000000005;A2;C03;    · cca = -82.000000 dBm
+127.010000000000005;A2;C03;    · tx_power = 20.000000 dBm
+127.010000000000005;A2;C03;    · max_bandwidth = 1
+127.010000000000005;A2;C03;  - Performance:
+127.010000000000005;A2;C03;    · Average throughput = 110.03 Mbps
+127.010000000000005;A2;C03;    · Average delay = 0.0057 s
+127.010000000000005;A2;C03;    · Maximum delay = 0.0057 s
+127.010000000000005;A2;C03;    · Minimum delay = 0.0057 s
+127.010000000000005;A2;C03;    · Associated reward = 0.000000
+128.009999999999991;A2;F00; RequestInformationToAp() (request #127)
+128.009999999999991;A2;F00; InportReceivingInformationFromAp()
+128.009999999999991;A2;C03;  - Action (0):
+128.009999999999991;A2;C03;    · channel = 0
+128.009999999999991;A2;C03;    · cca = -82.000000 dBm
+128.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+128.009999999999991;A2;C03;    · max_bandwidth = 1
+128.009999999999991;A2;C03;  - Performance:
+128.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+128.009999999999991;A2;C03;    · Average delay = 0.0057 s
+128.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+128.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+128.009999999999991;A2;C03;    · Associated reward = 0.000000
+129.009999999999991;A2;F00; RequestInformationToAp() (request #128)
+129.009999999999991;A2;F00; InportReceivingInformationFromAp()
+129.009999999999991;A2;C03;  - Action (0):
+129.009999999999991;A2;C03;    · channel = 0
+129.009999999999991;A2;C03;    · cca = -82.000000 dBm
+129.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+129.009999999999991;A2;C03;    · max_bandwidth = 1
+129.009999999999991;A2;C03;  - Performance:
+129.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+129.009999999999991;A2;C03;    · Average delay = 0.0057 s
+129.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+129.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+129.009999999999991;A2;C03;    · Associated reward = 0.000000
+130.009999999999991;A2;F00; RequestInformationToAp() (request #129)
+130.009999999999991;A2;F00; InportReceivingInformationFromAp()
+130.009999999999991;A2;C03;  - Action (0):
+130.009999999999991;A2;C03;    · channel = 0
+130.009999999999991;A2;C03;    · cca = -82.000000 dBm
+130.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+130.009999999999991;A2;C03;    · max_bandwidth = 1
+130.009999999999991;A2;C03;  - Performance:
+130.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+130.009999999999991;A2;C03;    · Average delay = 0.0057 s
+130.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+130.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+130.009999999999991;A2;C03;    · Associated reward = 0.000000
+131.009999999999991;A2;F00; RequestInformationToAp() (request #130)
+131.009999999999991;A2;F00; InportReceivingInformationFromAp()
+131.009999999999991;A2;C03;  - Action (0):
+131.009999999999991;A2;C03;    · channel = 0
+131.009999999999991;A2;C03;    · cca = -82.000000 dBm
+131.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+131.009999999999991;A2;C03;    · max_bandwidth = 1
+131.009999999999991;A2;C03;  - Performance:
+131.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+131.009999999999991;A2;C03;    · Average delay = 0.0057 s
+131.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+131.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+131.009999999999991;A2;C03;    · Associated reward = 0.000000
+132.009999999999991;A2;F00; RequestInformationToAp() (request #131)
+132.009999999999991;A2;F00; InportReceivingInformationFromAp()
+132.009999999999991;A2;C03;  - Action (0):
+132.009999999999991;A2;C03;    · channel = 0
+132.009999999999991;A2;C03;    · cca = -82.000000 dBm
+132.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+132.009999999999991;A2;C03;    · max_bandwidth = 1
+132.009999999999991;A2;C03;  - Performance:
+132.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+132.009999999999991;A2;C03;    · Average delay = 0.0057 s
+132.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+132.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+132.009999999999991;A2;C03;    · Associated reward = 0.000000
+133.009999999999991;A2;F00; RequestInformationToAp() (request #132)
+133.009999999999991;A2;F00; InportReceivingInformationFromAp()
+133.009999999999991;A2;C03;  - Action (0):
+133.009999999999991;A2;C03;    · channel = 0
+133.009999999999991;A2;C03;    · cca = -82.000000 dBm
+133.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+133.009999999999991;A2;C03;    · max_bandwidth = 1
+133.009999999999991;A2;C03;  - Performance:
+133.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+133.009999999999991;A2;C03;    · Average delay = 0.0057 s
+133.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+133.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+133.009999999999991;A2;C03;    · Associated reward = 0.000000
+134.009999999999991;A2;F00; RequestInformationToAp() (request #133)
+134.009999999999991;A2;F00; InportReceivingInformationFromAp()
+134.009999999999991;A2;C03;  - Action (0):
+134.009999999999991;A2;C03;    · channel = 0
+134.009999999999991;A2;C03;    · cca = -82.000000 dBm
+134.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+134.009999999999991;A2;C03;    · max_bandwidth = 1
+134.009999999999991;A2;C03;  - Performance:
+134.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+134.009999999999991;A2;C03;    · Average delay = 0.0057 s
+134.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+134.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+134.009999999999991;A2;C03;    · Associated reward = 0.000000
+135.009999999999991;A2;F00; RequestInformationToAp() (request #134)
+135.009999999999991;A2;F00; InportReceivingInformationFromAp()
+135.009999999999991;A2;C03;  - Action (0):
+135.009999999999991;A2;C03;    · channel = 0
+135.009999999999991;A2;C03;    · cca = -82.000000 dBm
+135.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+135.009999999999991;A2;C03;    · max_bandwidth = 1
+135.009999999999991;A2;C03;  - Performance:
+135.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+135.009999999999991;A2;C03;    · Average delay = 0.0057 s
+135.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+135.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+135.009999999999991;A2;C03;    · Associated reward = 0.000000
+136.009999999999991;A2;F00; RequestInformationToAp() (request #135)
+136.009999999999991;A2;F00; InportReceivingInformationFromAp()
+136.009999999999991;A2;C03;  - Action (0):
+136.009999999999991;A2;C03;    · channel = 0
+136.009999999999991;A2;C03;    · cca = -82.000000 dBm
+136.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+136.009999999999991;A2;C03;    · max_bandwidth = 1
+136.009999999999991;A2;C03;  - Performance:
+136.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+136.009999999999991;A2;C03;    · Average delay = 0.0057 s
+136.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+136.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+136.009999999999991;A2;C03;    · Associated reward = 0.000000
+137.009999999999991;A2;F00; RequestInformationToAp() (request #136)
+137.009999999999991;A2;F00; InportReceivingInformationFromAp()
+137.009999999999991;A2;C03;  - Action (0):
+137.009999999999991;A2;C03;    · channel = 0
+137.009999999999991;A2;C03;    · cca = -82.000000 dBm
+137.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+137.009999999999991;A2;C03;    · max_bandwidth = 1
+137.009999999999991;A2;C03;  - Performance:
+137.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+137.009999999999991;A2;C03;    · Average delay = 0.0057 s
+137.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+137.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+137.009999999999991;A2;C03;    · Associated reward = 0.000000
+138.009999999999991;A2;F00; RequestInformationToAp() (request #137)
+138.009999999999991;A2;F00; InportReceivingInformationFromAp()
+138.009999999999991;A2;C03;  - Action (0):
+138.009999999999991;A2;C03;    · channel = 0
+138.009999999999991;A2;C03;    · cca = -82.000000 dBm
+138.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+138.009999999999991;A2;C03;    · max_bandwidth = 1
+138.009999999999991;A2;C03;  - Performance:
+138.009999999999991;A2;C03;    · Average throughput = 109.39 Mbps
+138.009999999999991;A2;C03;    · Average delay = 0.0057 s
+138.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+138.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+138.009999999999991;A2;C03;    · Associated reward = 0.000000
+139.009999999999991;A2;F00; RequestInformationToAp() (request #138)
+139.009999999999991;A2;F00; InportReceivingInformationFromAp()
+139.009999999999991;A2;C03;  - Action (0):
+139.009999999999991;A2;C03;    · channel = 0
+139.009999999999991;A2;C03;    · cca = -82.000000 dBm
+139.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+139.009999999999991;A2;C03;    · max_bandwidth = 1
+139.009999999999991;A2;C03;  - Performance:
+139.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+139.009999999999991;A2;C03;    · Average delay = 0.0057 s
+139.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+139.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+139.009999999999991;A2;C03;    · Associated reward = 0.000000
+140.009999999999991;A2;F00; RequestInformationToAp() (request #139)
+140.009999999999991;A2;F00; InportReceivingInformationFromAp()
+140.009999999999991;A2;C03;  - Action (0):
+140.009999999999991;A2;C03;    · channel = 0
+140.009999999999991;A2;C03;    · cca = -82.000000 dBm
+140.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+140.009999999999991;A2;C03;    · max_bandwidth = 1
+140.009999999999991;A2;C03;  - Performance:
+140.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+140.009999999999991;A2;C03;    · Average delay = 0.0057 s
+140.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+140.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+140.009999999999991;A2;C03;    · Associated reward = 0.000000
+141.009999999999991;A2;F00; RequestInformationToAp() (request #140)
+141.009999999999991;A2;F00; InportReceivingInformationFromAp()
+141.009999999999991;A2;C03;  - Action (0):
+141.009999999999991;A2;C03;    · channel = 0
+141.009999999999991;A2;C03;    · cca = -82.000000 dBm
+141.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+141.009999999999991;A2;C03;    · max_bandwidth = 1
+141.009999999999991;A2;C03;  - Performance:
+141.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+141.009999999999991;A2;C03;    · Average delay = 0.0057 s
+141.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+141.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+141.009999999999991;A2;C03;    · Associated reward = 0.000000
+142.009999999999991;A2;F00; RequestInformationToAp() (request #141)
+142.009999999999991;A2;F00; InportReceivingInformationFromAp()
+142.009999999999991;A2;C03;  - Action (0):
+142.009999999999991;A2;C03;    · channel = 0
+142.009999999999991;A2;C03;    · cca = -82.000000 dBm
+142.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+142.009999999999991;A2;C03;    · max_bandwidth = 1
+142.009999999999991;A2;C03;  - Performance:
+142.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+142.009999999999991;A2;C03;    · Average delay = 0.0057 s
+142.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+142.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+142.009999999999991;A2;C03;    · Associated reward = 0.000000
+143.009999999999991;A2;F00; RequestInformationToAp() (request #142)
+143.009999999999991;A2;F00; InportReceivingInformationFromAp()
+143.009999999999991;A2;C03;  - Action (0):
+143.009999999999991;A2;C03;    · channel = 0
+143.009999999999991;A2;C03;    · cca = -82.000000 dBm
+143.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+143.009999999999991;A2;C03;    · max_bandwidth = 1
+143.009999999999991;A2;C03;  - Performance:
+143.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+143.009999999999991;A2;C03;    · Average delay = 0.0057 s
+143.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+143.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+143.009999999999991;A2;C03;    · Associated reward = 0.000000
+144.009999999999991;A2;F00; RequestInformationToAp() (request #143)
+144.009999999999991;A2;F00; InportReceivingInformationFromAp()
+144.009999999999991;A2;C03;  - Action (0):
+144.009999999999991;A2;C03;    · channel = 0
+144.009999999999991;A2;C03;    · cca = -82.000000 dBm
+144.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+144.009999999999991;A2;C03;    · max_bandwidth = 1
+144.009999999999991;A2;C03;  - Performance:
+144.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+144.009999999999991;A2;C03;    · Average delay = 0.0057 s
+144.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+144.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+144.009999999999991;A2;C03;    · Associated reward = 0.000000
+145.009999999999991;A2;F00; RequestInformationToAp() (request #144)
+145.009999999999991;A2;F00; InportReceivingInformationFromAp()
+145.009999999999991;A2;C03;  - Action (0):
+145.009999999999991;A2;C03;    · channel = 0
+145.009999999999991;A2;C03;    · cca = -82.000000 dBm
+145.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+145.009999999999991;A2;C03;    · max_bandwidth = 1
+145.009999999999991;A2;C03;  - Performance:
+145.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+145.009999999999991;A2;C03;    · Average delay = 0.0057 s
+145.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+145.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+145.009999999999991;A2;C03;    · Associated reward = 0.000000
+146.009999999999991;A2;F00; RequestInformationToAp() (request #145)
+146.009999999999991;A2;F00; InportReceivingInformationFromAp()
+146.009999999999991;A2;C03;  - Action (0):
+146.009999999999991;A2;C03;    · channel = 0
+146.009999999999991;A2;C03;    · cca = -82.000000 dBm
+146.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+146.009999999999991;A2;C03;    · max_bandwidth = 1
+146.009999999999991;A2;C03;  - Performance:
+146.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+146.009999999999991;A2;C03;    · Average delay = 0.0057 s
+146.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+146.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+146.009999999999991;A2;C03;    · Associated reward = 0.000000
+147.009999999999991;A2;F00; RequestInformationToAp() (request #146)
+147.009999999999991;A2;F00; InportReceivingInformationFromAp()
+147.009999999999991;A2;C03;  - Action (0):
+147.009999999999991;A2;C03;    · channel = 0
+147.009999999999991;A2;C03;    · cca = -82.000000 dBm
+147.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+147.009999999999991;A2;C03;    · max_bandwidth = 1
+147.009999999999991;A2;C03;  - Performance:
+147.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+147.009999999999991;A2;C03;    · Average delay = 0.0057 s
+147.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+147.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+147.009999999999991;A2;C03;    · Associated reward = 0.000000
+148.009999999999991;A2;F00; RequestInformationToAp() (request #147)
+148.009999999999991;A2;F00; InportReceivingInformationFromAp()
+148.009999999999991;A2;C03;  - Action (0):
+148.009999999999991;A2;C03;    · channel = 0
+148.009999999999991;A2;C03;    · cca = -82.000000 dBm
+148.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+148.009999999999991;A2;C03;    · max_bandwidth = 1
+148.009999999999991;A2;C03;  - Performance:
+148.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+148.009999999999991;A2;C03;    · Average delay = 0.0057 s
+148.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+148.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+148.009999999999991;A2;C03;    · Associated reward = 0.000000
+149.009999999999991;A2;F00; RequestInformationToAp() (request #148)
+149.009999999999991;A2;F00; InportReceivingInformationFromAp()
+149.009999999999991;A2;C03;  - Action (0):
+149.009999999999991;A2;C03;    · channel = 0
+149.009999999999991;A2;C03;    · cca = -82.000000 dBm
+149.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+149.009999999999991;A2;C03;    · max_bandwidth = 1
+149.009999999999991;A2;C03;  - Performance:
+149.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+149.009999999999991;A2;C03;    · Average delay = 0.0057 s
+149.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+149.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+149.009999999999991;A2;C03;    · Associated reward = 0.000000
+150.009999999999991;A2;F00; RequestInformationToAp() (request #149)
+150.009999999999991;A2;F00; InportReceivingInformationFromAp()
+150.009999999999991;A2;C03;  - Action (0):
+150.009999999999991;A2;C03;    · channel = 0
+150.009999999999991;A2;C03;    · cca = -82.000000 dBm
+150.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+150.009999999999991;A2;C03;    · max_bandwidth = 1
+150.009999999999991;A2;C03;  - Performance:
+150.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+150.009999999999991;A2;C03;    · Average delay = 0.0057 s
+150.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+150.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+150.009999999999991;A2;C03;    · Associated reward = 0.000000
+151.009999999999991;A2;F00; RequestInformationToAp() (request #150)
+151.009999999999991;A2;F00; InportReceivingInformationFromAp()
+151.009999999999991;A2;C03;  - Action (0):
+151.009999999999991;A2;C03;    · channel = 0
+151.009999999999991;A2;C03;    · cca = -82.000000 dBm
+151.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+151.009999999999991;A2;C03;    · max_bandwidth = 1
+151.009999999999991;A2;C03;  - Performance:
+151.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+151.009999999999991;A2;C03;    · Average delay = 0.0057 s
+151.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+151.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+151.009999999999991;A2;C03;    · Associated reward = 0.000000
+152.009999999999991;A2;F00; RequestInformationToAp() (request #151)
+152.009999999999991;A2;F00; InportReceivingInformationFromAp()
+152.009999999999991;A2;C03;  - Action (0):
+152.009999999999991;A2;C03;    · channel = 0
+152.009999999999991;A2;C03;    · cca = -82.000000 dBm
+152.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+152.009999999999991;A2;C03;    · max_bandwidth = 1
+152.009999999999991;A2;C03;  - Performance:
+152.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+152.009999999999991;A2;C03;    · Average delay = 0.0057 s
+152.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+152.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+152.009999999999991;A2;C03;    · Associated reward = 0.000000
+153.009999999999991;A2;F00; RequestInformationToAp() (request #152)
+153.009999999999991;A2;F00; InportReceivingInformationFromAp()
+153.009999999999991;A2;C03;  - Action (0):
+153.009999999999991;A2;C03;    · channel = 0
+153.009999999999991;A2;C03;    · cca = -82.000000 dBm
+153.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+153.009999999999991;A2;C03;    · max_bandwidth = 1
+153.009999999999991;A2;C03;  - Performance:
+153.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+153.009999999999991;A2;C03;    · Average delay = 0.0057 s
+153.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+153.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+153.009999999999991;A2;C03;    · Associated reward = 0.000000
+154.009999999999991;A2;F00; RequestInformationToAp() (request #153)
+154.009999999999991;A2;F00; InportReceivingInformationFromAp()
+154.009999999999991;A2;C03;  - Action (0):
+154.009999999999991;A2;C03;    · channel = 0
+154.009999999999991;A2;C03;    · cca = -82.000000 dBm
+154.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+154.009999999999991;A2;C03;    · max_bandwidth = 1
+154.009999999999991;A2;C03;  - Performance:
+154.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+154.009999999999991;A2;C03;    · Average delay = 0.0057 s
+154.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+154.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+154.009999999999991;A2;C03;    · Associated reward = 0.000000
+155.009999999999991;A2;F00; RequestInformationToAp() (request #154)
+155.009999999999991;A2;F00; InportReceivingInformationFromAp()
+155.009999999999991;A2;C03;  - Action (0):
+155.009999999999991;A2;C03;    · channel = 0
+155.009999999999991;A2;C03;    · cca = -82.000000 dBm
+155.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+155.009999999999991;A2;C03;    · max_bandwidth = 1
+155.009999999999991;A2;C03;  - Performance:
+155.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+155.009999999999991;A2;C03;    · Average delay = 0.0057 s
+155.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+155.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+155.009999999999991;A2;C03;    · Associated reward = 0.000000
+156.009999999999991;A2;F00; RequestInformationToAp() (request #155)
+156.009999999999991;A2;F00; InportReceivingInformationFromAp()
+156.009999999999991;A2;C03;  - Action (0):
+156.009999999999991;A2;C03;    · channel = 0
+156.009999999999991;A2;C03;    · cca = -82.000000 dBm
+156.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+156.009999999999991;A2;C03;    · max_bandwidth = 1
+156.009999999999991;A2;C03;  - Performance:
+156.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+156.009999999999991;A2;C03;    · Average delay = 0.0057 s
+156.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+156.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+156.009999999999991;A2;C03;    · Associated reward = 0.000000
+157.009999999999991;A2;F00; RequestInformationToAp() (request #156)
+157.009999999999991;A2;F00; InportReceivingInformationFromAp()
+157.009999999999991;A2;C03;  - Action (0):
+157.009999999999991;A2;C03;    · channel = 0
+157.009999999999991;A2;C03;    · cca = -82.000000 dBm
+157.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+157.009999999999991;A2;C03;    · max_bandwidth = 1
+157.009999999999991;A2;C03;  - Performance:
+157.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+157.009999999999991;A2;C03;    · Average delay = 0.0057 s
+157.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+157.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+157.009999999999991;A2;C03;    · Associated reward = 0.000000
+158.009999999999991;A2;F00; RequestInformationToAp() (request #157)
+158.009999999999991;A2;F00; InportReceivingInformationFromAp()
+158.009999999999991;A2;C03;  - Action (0):
+158.009999999999991;A2;C03;    · channel = 0
+158.009999999999991;A2;C03;    · cca = -82.000000 dBm
+158.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+158.009999999999991;A2;C03;    · max_bandwidth = 1
+158.009999999999991;A2;C03;  - Performance:
+158.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+158.009999999999991;A2;C03;    · Average delay = 0.0057 s
+158.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+158.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+158.009999999999991;A2;C03;    · Associated reward = 0.000000
+159.009999999999991;A2;F00; RequestInformationToAp() (request #158)
+159.009999999999991;A2;F00; InportReceivingInformationFromAp()
+159.009999999999991;A2;C03;  - Action (0):
+159.009999999999991;A2;C03;    · channel = 0
+159.009999999999991;A2;C03;    · cca = -82.000000 dBm
+159.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+159.009999999999991;A2;C03;    · max_bandwidth = 1
+159.009999999999991;A2;C03;  - Performance:
+159.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+159.009999999999991;A2;C03;    · Average delay = 0.0057 s
+159.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+159.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+159.009999999999991;A2;C03;    · Associated reward = 0.000000
+160.009999999999991;A2;F00; RequestInformationToAp() (request #159)
+160.009999999999991;A2;F00; InportReceivingInformationFromAp()
+160.009999999999991;A2;C03;  - Action (0):
+160.009999999999991;A2;C03;    · channel = 0
+160.009999999999991;A2;C03;    · cca = -82.000000 dBm
+160.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+160.009999999999991;A2;C03;    · max_bandwidth = 1
+160.009999999999991;A2;C03;  - Performance:
+160.009999999999991;A2;C03;    · Average throughput = 83.32 Mbps
+160.009999999999991;A2;C03;    · Average delay = 0.0057 s
+160.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+160.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+160.009999999999991;A2;C03;    · Associated reward = 0.000000
+161.009999999999991;A2;F00; RequestInformationToAp() (request #160)
+161.009999999999991;A2;F00; InportReceivingInformationFromAp()
+161.009999999999991;A2;C03;  - Action (0):
+161.009999999999991;A2;C03;    · channel = 0
+161.009999999999991;A2;C03;    · cca = -82.000000 dBm
+161.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+161.009999999999991;A2;C03;    · max_bandwidth = 1
+161.009999999999991;A2;C03;  - Performance:
+161.009999999999991;A2;C03;    · Average throughput = 105.58 Mbps
+161.009999999999991;A2;C03;    · Average delay = 0.0057 s
+161.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+161.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+161.009999999999991;A2;C03;    · Associated reward = 0.000000
+162.009999999999991;A2;F00; RequestInformationToAp() (request #161)
+162.009999999999991;A2;F00; InportReceivingInformationFromAp()
+162.009999999999991;A2;C03;  - Action (0):
+162.009999999999991;A2;C03;    · channel = 0
+162.009999999999991;A2;C03;    · cca = -82.000000 dBm
+162.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+162.009999999999991;A2;C03;    · max_bandwidth = 1
+162.009999999999991;A2;C03;  - Performance:
+162.009999999999991;A2;C03;    · Average throughput = 103.03 Mbps
+162.009999999999991;A2;C03;    · Average delay = 0.0057 s
+162.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+162.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+162.009999999999991;A2;C03;    · Associated reward = 0.000000
+163.009999999999991;A2;F00; RequestInformationToAp() (request #162)
+163.009999999999991;A2;F00; InportReceivingInformationFromAp()
+163.009999999999991;A2;C03;  - Action (0):
+163.009999999999991;A2;C03;    · channel = 0
+163.009999999999991;A2;C03;    · cca = -82.000000 dBm
+163.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+163.009999999999991;A2;C03;    · max_bandwidth = 1
+163.009999999999991;A2;C03;  - Performance:
+163.009999999999991;A2;C03;    · Average throughput = 89.68 Mbps
+163.009999999999991;A2;C03;    · Average delay = 0.0057 s
+163.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+163.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+163.009999999999991;A2;C03;    · Associated reward = 0.000000
+164.009999999999991;A2;F00; RequestInformationToAp() (request #163)
+164.009999999999991;A2;F00; InportReceivingInformationFromAp()
+164.009999999999991;A2;C03;  - Action (0):
+164.009999999999991;A2;C03;    · channel = 0
+164.009999999999991;A2;C03;    · cca = -82.000000 dBm
+164.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+164.009999999999991;A2;C03;    · max_bandwidth = 1
+164.009999999999991;A2;C03;  - Performance:
+164.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+164.009999999999991;A2;C03;    · Average delay = 0.0057 s
+164.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+164.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+164.009999999999991;A2;C03;    · Associated reward = 0.000000
+165.009999999999991;A2;F00; RequestInformationToAp() (request #164)
+165.009999999999991;A2;F00; InportReceivingInformationFromAp()
+165.009999999999991;A2;C03;  - Action (0):
+165.009999999999991;A2;C03;    · channel = 0
+165.009999999999991;A2;C03;    · cca = -82.000000 dBm
+165.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+165.009999999999991;A2;C03;    · max_bandwidth = 1
+165.009999999999991;A2;C03;  - Performance:
+165.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+165.009999999999991;A2;C03;    · Average delay = 0.0057 s
+165.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+165.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+165.009999999999991;A2;C03;    · Associated reward = 0.000000
+166.009999999999991;A2;F00; RequestInformationToAp() (request #165)
+166.009999999999991;A2;F00; InportReceivingInformationFromAp()
+166.009999999999991;A2;C03;  - Action (0):
+166.009999999999991;A2;C03;    · channel = 0
+166.009999999999991;A2;C03;    · cca = -82.000000 dBm
+166.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+166.009999999999991;A2;C03;    · max_bandwidth = 1
+166.009999999999991;A2;C03;  - Performance:
+166.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+166.009999999999991;A2;C03;    · Average delay = 0.0057 s
+166.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+166.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+166.009999999999991;A2;C03;    · Associated reward = 0.000000
+167.009999999999991;A2;F00; RequestInformationToAp() (request #166)
+167.009999999999991;A2;F00; InportReceivingInformationFromAp()
+167.009999999999991;A2;C03;  - Action (0):
+167.009999999999991;A2;C03;    · channel = 0
+167.009999999999991;A2;C03;    · cca = -82.000000 dBm
+167.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+167.009999999999991;A2;C03;    · max_bandwidth = 1
+167.009999999999991;A2;C03;  - Performance:
+167.009999999999991;A2;C03;    · Average throughput = 92.86 Mbps
+167.009999999999991;A2;C03;    · Average delay = 0.0057 s
+167.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+167.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+167.009999999999991;A2;C03;    · Associated reward = 0.000000
+168.009999999999991;A2;F00; RequestInformationToAp() (request #167)
+168.009999999999991;A2;F00; InportReceivingInformationFromAp()
+168.009999999999991;A2;C03;  - Action (0):
+168.009999999999991;A2;C03;    · channel = 0
+168.009999999999991;A2;C03;    · cca = -82.000000 dBm
+168.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+168.009999999999991;A2;C03;    · max_bandwidth = 1
+168.009999999999991;A2;C03;  - Performance:
+168.009999999999991;A2;C03;    · Average throughput = 106.85 Mbps
+168.009999999999991;A2;C03;    · Average delay = 0.0057 s
+168.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+168.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+168.009999999999991;A2;C03;    · Associated reward = 0.000000
+169.009999999999991;A2;F00; RequestInformationToAp() (request #168)
+169.009999999999991;A2;F00; InportReceivingInformationFromAp()
+169.009999999999991;A2;C03;  - Action (0):
+169.009999999999991;A2;C03;    · channel = 0
+169.009999999999991;A2;C03;    · cca = -82.000000 dBm
+169.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+169.009999999999991;A2;C03;    · max_bandwidth = 1
+169.009999999999991;A2;C03;  - Performance:
+169.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+169.009999999999991;A2;C03;    · Average delay = 0.0057 s
+169.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+169.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+169.009999999999991;A2;C03;    · Associated reward = 0.000000
+170.009999999999991;A2;F00; RequestInformationToAp() (request #169)
+170.009999999999991;A2;F00; InportReceivingInformationFromAp()
+170.009999999999991;A2;C03;  - Action (0):
+170.009999999999991;A2;C03;    · channel = 0
+170.009999999999991;A2;C03;    · cca = -82.000000 dBm
+170.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+170.009999999999991;A2;C03;    · max_bandwidth = 1
+170.009999999999991;A2;C03;  - Performance:
+170.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+170.009999999999991;A2;C03;    · Average delay = 0.0057 s
+170.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+170.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+170.009999999999991;A2;C03;    · Associated reward = 0.000000
+171.009999999999991;A2;F00; RequestInformationToAp() (request #170)
+171.009999999999991;A2;F00; InportReceivingInformationFromAp()
+171.009999999999991;A2;C03;  - Action (0):
+171.009999999999991;A2;C03;    · channel = 0
+171.009999999999991;A2;C03;    · cca = -82.000000 dBm
+171.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+171.009999999999991;A2;C03;    · max_bandwidth = 1
+171.009999999999991;A2;C03;  - Performance:
+171.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+171.009999999999991;A2;C03;    · Average delay = 0.0057 s
+171.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+171.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+171.009999999999991;A2;C03;    · Associated reward = 0.000000
+172.009999999999991;A2;F00; RequestInformationToAp() (request #171)
+172.009999999999991;A2;F00; InportReceivingInformationFromAp()
+172.009999999999991;A2;C03;  - Action (0):
+172.009999999999991;A2;C03;    · channel = 0
+172.009999999999991;A2;C03;    · cca = -82.000000 dBm
+172.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+172.009999999999991;A2;C03;    · max_bandwidth = 1
+172.009999999999991;A2;C03;  - Performance:
+172.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+172.009999999999991;A2;C03;    · Average delay = 0.0057 s
+172.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+172.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+172.009999999999991;A2;C03;    · Associated reward = 0.000000
+173.009999999999991;A2;F00; RequestInformationToAp() (request #172)
+173.009999999999991;A2;F00; InportReceivingInformationFromAp()
+173.009999999999991;A2;C03;  - Action (0):
+173.009999999999991;A2;C03;    · channel = 0
+173.009999999999991;A2;C03;    · cca = -82.000000 dBm
+173.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+173.009999999999991;A2;C03;    · max_bandwidth = 1
+173.009999999999991;A2;C03;  - Performance:
+173.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+173.009999999999991;A2;C03;    · Average delay = 0.0057 s
+173.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+173.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+173.009999999999991;A2;C03;    · Associated reward = 0.000000
+174.009999999999991;A2;F00; RequestInformationToAp() (request #173)
+174.009999999999991;A2;F00; InportReceivingInformationFromAp()
+174.009999999999991;A2;C03;  - Action (0):
+174.009999999999991;A2;C03;    · channel = 0
+174.009999999999991;A2;C03;    · cca = -82.000000 dBm
+174.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+174.009999999999991;A2;C03;    · max_bandwidth = 1
+174.009999999999991;A2;C03;  - Performance:
+174.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+174.009999999999991;A2;C03;    · Average delay = 0.0057 s
+174.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+174.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+174.009999999999991;A2;C03;    · Associated reward = 0.000000
+175.009999999999991;A2;F00; RequestInformationToAp() (request #174)
+175.009999999999991;A2;F00; InportReceivingInformationFromAp()
+175.009999999999991;A2;C03;  - Action (0):
+175.009999999999991;A2;C03;    · channel = 0
+175.009999999999991;A2;C03;    · cca = -82.000000 dBm
+175.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+175.009999999999991;A2;C03;    · max_bandwidth = 1
+175.009999999999991;A2;C03;  - Performance:
+175.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+175.009999999999991;A2;C03;    · Average delay = 0.0057 s
+175.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+175.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+175.009999999999991;A2;C03;    · Associated reward = 0.000000
+176.009999999999991;A2;F00; RequestInformationToAp() (request #175)
+176.009999999999991;A2;F00; InportReceivingInformationFromAp()
+176.009999999999991;A2;C03;  - Action (0):
+176.009999999999991;A2;C03;    · channel = 0
+176.009999999999991;A2;C03;    · cca = -82.000000 dBm
+176.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+176.009999999999991;A2;C03;    · max_bandwidth = 1
+176.009999999999991;A2;C03;  - Performance:
+176.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+176.009999999999991;A2;C03;    · Average delay = 0.0057 s
+176.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+176.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+176.009999999999991;A2;C03;    · Associated reward = 0.000000
+177.009999999999991;A2;F00; RequestInformationToAp() (request #176)
+177.009999999999991;A2;F00; InportReceivingInformationFromAp()
+177.009999999999991;A2;C03;  - Action (0):
+177.009999999999991;A2;C03;    · channel = 0
+177.009999999999991;A2;C03;    · cca = -82.000000 dBm
+177.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+177.009999999999991;A2;C03;    · max_bandwidth = 1
+177.009999999999991;A2;C03;  - Performance:
+177.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+177.009999999999991;A2;C03;    · Average delay = 0.0057 s
+177.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+177.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+177.009999999999991;A2;C03;    · Associated reward = 0.000000
+178.009999999999991;A2;F00; RequestInformationToAp() (request #177)
+178.009999999999991;A2;F00; InportReceivingInformationFromAp()
+178.009999999999991;A2;C03;  - Action (0):
+178.009999999999991;A2;C03;    · channel = 0
+178.009999999999991;A2;C03;    · cca = -82.000000 dBm
+178.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+178.009999999999991;A2;C03;    · max_bandwidth = 1
+178.009999999999991;A2;C03;  - Performance:
+178.009999999999991;A2;C03;    · Average throughput = 106.21 Mbps
+178.009999999999991;A2;C03;    · Average delay = 0.0057 s
+178.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+178.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+178.009999999999991;A2;C03;    · Associated reward = 0.000000
+179.009999999999991;A2;F00; RequestInformationToAp() (request #178)
+179.009999999999991;A2;F00; InportReceivingInformationFromAp()
+179.009999999999991;A2;C03;  - Action (0):
+179.009999999999991;A2;C03;    · channel = 0
+179.009999999999991;A2;C03;    · cca = -82.000000 dBm
+179.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+179.009999999999991;A2;C03;    · max_bandwidth = 1
+179.009999999999991;A2;C03;  - Performance:
+179.009999999999991;A2;C03;    · Average throughput = 108.76 Mbps
+179.009999999999991;A2;C03;    · Average delay = 0.0057 s
+179.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+179.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+179.009999999999991;A2;C03;    · Associated reward = 0.000000
+180.009999999999991;A2;F00; RequestInformationToAp() (request #179)
+180.009999999999991;A2;F00; InportReceivingInformationFromAp()
+180.009999999999991;A2;C03;  - Action (0):
+180.009999999999991;A2;C03;    · channel = 0
+180.009999999999991;A2;C03;    · cca = -82.000000 dBm
+180.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+180.009999999999991;A2;C03;    · max_bandwidth = 1
+180.009999999999991;A2;C03;  - Performance:
+180.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+180.009999999999991;A2;C03;    · Average delay = 0.0057 s
+180.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+180.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+180.009999999999991;A2;C03;    · Associated reward = 0.000000
+181.009999999999991;A2;F00; RequestInformationToAp() (request #180)
+181.009999999999991;A2;F00; InportReceivingInformationFromAp()
+181.009999999999991;A2;C03;  - Action (0):
+181.009999999999991;A2;C03;    · channel = 0
+181.009999999999991;A2;C03;    · cca = -82.000000 dBm
+181.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+181.009999999999991;A2;C03;    · max_bandwidth = 1
+181.009999999999991;A2;C03;  - Performance:
+181.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+181.009999999999991;A2;C03;    · Average delay = 0.0057 s
+181.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+181.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+181.009999999999991;A2;C03;    · Associated reward = 0.000000
+182.009999999999991;A2;F00; RequestInformationToAp() (request #181)
+182.009999999999991;A2;F00; InportReceivingInformationFromAp()
+182.009999999999991;A2;C03;  - Action (0):
+182.009999999999991;A2;C03;    · channel = 0
+182.009999999999991;A2;C03;    · cca = -82.000000 dBm
+182.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+182.009999999999991;A2;C03;    · max_bandwidth = 1
+182.009999999999991;A2;C03;  - Performance:
+182.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+182.009999999999991;A2;C03;    · Average delay = 0.0057 s
+182.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+182.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+182.009999999999991;A2;C03;    · Associated reward = 0.000000
+183.009999999999991;A2;F00; RequestInformationToAp() (request #182)
+183.009999999999991;A2;F00; InportReceivingInformationFromAp()
+183.009999999999991;A2;C03;  - Action (0):
+183.009999999999991;A2;C03;    · channel = 0
+183.009999999999991;A2;C03;    · cca = -82.000000 dBm
+183.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+183.009999999999991;A2;C03;    · max_bandwidth = 1
+183.009999999999991;A2;C03;  - Performance:
+183.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+183.009999999999991;A2;C03;    · Average delay = 0.0057 s
+183.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+183.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+183.009999999999991;A2;C03;    · Associated reward = 0.000000
+184.009999999999991;A2;F00; RequestInformationToAp() (request #183)
+184.009999999999991;A2;F00; InportReceivingInformationFromAp()
+184.009999999999991;A2;C03;  - Action (0):
+184.009999999999991;A2;C03;    · channel = 0
+184.009999999999991;A2;C03;    · cca = -82.000000 dBm
+184.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+184.009999999999991;A2;C03;    · max_bandwidth = 1
+184.009999999999991;A2;C03;  - Performance:
+184.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+184.009999999999991;A2;C03;    · Average delay = 0.0057 s
+184.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+184.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+184.009999999999991;A2;C03;    · Associated reward = 0.000000
+185.009999999999991;A2;F00; RequestInformationToAp() (request #184)
+185.009999999999991;A2;F00; InportReceivingInformationFromAp()
+185.009999999999991;A2;C03;  - Action (0):
+185.009999999999991;A2;C03;    · channel = 0
+185.009999999999991;A2;C03;    · cca = -82.000000 dBm
+185.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+185.009999999999991;A2;C03;    · max_bandwidth = 1
+185.009999999999991;A2;C03;  - Performance:
+185.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+185.009999999999991;A2;C03;    · Average delay = 0.0057 s
+185.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+185.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+185.009999999999991;A2;C03;    · Associated reward = 0.000000
+186.009999999999991;A2;F00; RequestInformationToAp() (request #185)
+186.009999999999991;A2;F00; InportReceivingInformationFromAp()
+186.009999999999991;A2;C03;  - Action (0):
+186.009999999999991;A2;C03;    · channel = 0
+186.009999999999991;A2;C03;    · cca = -82.000000 dBm
+186.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+186.009999999999991;A2;C03;    · max_bandwidth = 1
+186.009999999999991;A2;C03;  - Performance:
+186.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+186.009999999999991;A2;C03;    · Average delay = 0.0057 s
+186.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+186.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+186.009999999999991;A2;C03;    · Associated reward = 0.000000
+187.009999999999991;A2;F00; RequestInformationToAp() (request #186)
+187.009999999999991;A2;F00; InportReceivingInformationFromAp()
+187.009999999999991;A2;C03;  - Action (0):
+187.009999999999991;A2;C03;    · channel = 0
+187.009999999999991;A2;C03;    · cca = -82.000000 dBm
+187.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+187.009999999999991;A2;C03;    · max_bandwidth = 1
+187.009999999999991;A2;C03;  - Performance:
+187.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+187.009999999999991;A2;C03;    · Average delay = 0.0057 s
+187.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+187.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+187.009999999999991;A2;C03;    · Associated reward = 0.000000
+188.009999999999991;A2;F00; RequestInformationToAp() (request #187)
+188.009999999999991;A2;F00; InportReceivingInformationFromAp()
+188.009999999999991;A2;C03;  - Action (0):
+188.009999999999991;A2;C03;    · channel = 0
+188.009999999999991;A2;C03;    · cca = -82.000000 dBm
+188.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+188.009999999999991;A2;C03;    · max_bandwidth = 1
+188.009999999999991;A2;C03;  - Performance:
+188.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+188.009999999999991;A2;C03;    · Average delay = 0.0057 s
+188.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+188.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+188.009999999999991;A2;C03;    · Associated reward = 0.000000
+189.009999999999991;A2;F00; RequestInformationToAp() (request #188)
+189.009999999999991;A2;F00; InportReceivingInformationFromAp()
+189.009999999999991;A2;C03;  - Action (0):
+189.009999999999991;A2;C03;    · channel = 0
+189.009999999999991;A2;C03;    · cca = -82.000000 dBm
+189.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+189.009999999999991;A2;C03;    · max_bandwidth = 1
+189.009999999999991;A2;C03;  - Performance:
+189.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+189.009999999999991;A2;C03;    · Average delay = 0.0057 s
+189.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+189.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+189.009999999999991;A2;C03;    · Associated reward = 0.000000
+190.009999999999991;A2;F00; RequestInformationToAp() (request #189)
+190.009999999999991;A2;F00; InportReceivingInformationFromAp()
+190.009999999999991;A2;C03;  - Action (0):
+190.009999999999991;A2;C03;    · channel = 0
+190.009999999999991;A2;C03;    · cca = -82.000000 dBm
+190.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+190.009999999999991;A2;C03;    · max_bandwidth = 1
+190.009999999999991;A2;C03;  - Performance:
+190.009999999999991;A2;C03;    · Average throughput = 100.49 Mbps
+190.009999999999991;A2;C03;    · Average delay = 0.0057 s
+190.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+190.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+190.009999999999991;A2;C03;    · Associated reward = 0.000000
+191.009999999999991;A2;F00; RequestInformationToAp() (request #190)
+191.009999999999991;A2;F00; InportReceivingInformationFromAp()
+191.009999999999991;A2;C03;  - Action (0):
+191.009999999999991;A2;C03;    · channel = 0
+191.009999999999991;A2;C03;    · cca = -82.000000 dBm
+191.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+191.009999999999991;A2;C03;    · max_bandwidth = 1
+191.009999999999991;A2;C03;  - Performance:
+191.009999999999991;A2;C03;    · Average throughput = 75.68 Mbps
+191.009999999999991;A2;C03;    · Average delay = 0.0057 s
+191.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+191.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+191.009999999999991;A2;C03;    · Associated reward = 0.000000
+192.009999999999991;A2;F00; RequestInformationToAp() (request #191)
+192.009999999999991;A2;F00; InportReceivingInformationFromAp()
+192.009999999999991;A2;C03;  - Action (0):
+192.009999999999991;A2;C03;    · channel = 0
+192.009999999999991;A2;C03;    · cca = -82.000000 dBm
+192.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+192.009999999999991;A2;C03;    · max_bandwidth = 1
+192.009999999999991;A2;C03;  - Performance:
+192.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+192.009999999999991;A2;C03;    · Average delay = 0.0057 s
+192.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+192.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+192.009999999999991;A2;C03;    · Associated reward = 0.000000
+193.009999999999991;A2;F00; RequestInformationToAp() (request #192)
+193.009999999999991;A2;F00; InportReceivingInformationFromAp()
+193.009999999999991;A2;C03;  - Action (0):
+193.009999999999991;A2;C03;    · channel = 0
+193.009999999999991;A2;C03;    · cca = -82.000000 dBm
+193.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+193.009999999999991;A2;C03;    · max_bandwidth = 1
+193.009999999999991;A2;C03;  - Performance:
+193.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+193.009999999999991;A2;C03;    · Average delay = 0.0057 s
+193.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+193.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+193.009999999999991;A2;C03;    · Associated reward = 0.000000
+194.009999999999991;A2;F00; RequestInformationToAp() (request #193)
+194.009999999999991;A2;F00; InportReceivingInformationFromAp()
+194.009999999999991;A2;C03;  - Action (0):
+194.009999999999991;A2;C03;    · channel = 0
+194.009999999999991;A2;C03;    · cca = -82.000000 dBm
+194.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+194.009999999999991;A2;C03;    · max_bandwidth = 1
+194.009999999999991;A2;C03;  - Performance:
+194.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+194.009999999999991;A2;C03;    · Average delay = 0.0057 s
+194.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+194.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+194.009999999999991;A2;C03;    · Associated reward = 0.000000
+195.009999999999991;A2;F00; RequestInformationToAp() (request #194)
+195.009999999999991;A2;F00; InportReceivingInformationFromAp()
+195.009999999999991;A2;C03;  - Action (0):
+195.009999999999991;A2;C03;    · channel = 0
+195.009999999999991;A2;C03;    · cca = -82.000000 dBm
+195.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+195.009999999999991;A2;C03;    · max_bandwidth = 1
+195.009999999999991;A2;C03;  - Performance:
+195.009999999999991;A2;C03;    · Average throughput = 104.94 Mbps
+195.009999999999991;A2;C03;    · Average delay = 0.0057 s
+195.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+195.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+195.009999999999991;A2;C03;    · Associated reward = 0.000000
+196.009999999999991;A2;F00; RequestInformationToAp() (request #195)
+196.009999999999991;A2;F00; InportReceivingInformationFromAp()
+196.009999999999991;A2;C03;  - Action (0):
+196.009999999999991;A2;C03;    · channel = 0
+196.009999999999991;A2;C03;    · cca = -82.000000 dBm
+196.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+196.009999999999991;A2;C03;    · max_bandwidth = 1
+196.009999999999991;A2;C03;  - Performance:
+196.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+196.009999999999991;A2;C03;    · Average delay = 0.0057 s
+196.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+196.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+196.009999999999991;A2;C03;    · Associated reward = 0.000000
+197.009999999999991;A2;F00; RequestInformationToAp() (request #196)
+197.009999999999991;A2;F00; InportReceivingInformationFromAp()
+197.009999999999991;A2;C03;  - Action (0):
+197.009999999999991;A2;C03;    · channel = 0
+197.009999999999991;A2;C03;    · cca = -82.000000 dBm
+197.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+197.009999999999991;A2;C03;    · max_bandwidth = 1
+197.009999999999991;A2;C03;  - Performance:
+197.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+197.009999999999991;A2;C03;    · Average delay = 0.0057 s
+197.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+197.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+197.009999999999991;A2;C03;    · Associated reward = 0.000000
+198.009999999999991;A2;F00; RequestInformationToAp() (request #197)
+198.009999999999991;A2;F00; InportReceivingInformationFromAp()
+198.009999999999991;A2;C03;  - Action (0):
+198.009999999999991;A2;C03;    · channel = 0
+198.009999999999991;A2;C03;    · cca = -82.000000 dBm
+198.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+198.009999999999991;A2;C03;    · max_bandwidth = 1
+198.009999999999991;A2;C03;  - Performance:
+198.009999999999991;A2;C03;    · Average throughput = 110.03 Mbps
+198.009999999999991;A2;C03;    · Average delay = 0.0057 s
+198.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+198.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+198.009999999999991;A2;C03;    · Associated reward = 0.000000
+199.009999999999991;A2;F00; RequestInformationToAp() (request #198)
+199.009999999999991;A2;F00; InportReceivingInformationFromAp()
+199.009999999999991;A2;C03;  - Action (0):
+199.009999999999991;A2;C03;    · channel = 0
+199.009999999999991;A2;C03;    · cca = -82.000000 dBm
+199.009999999999991;A2;C03;    · tx_power = 20.000000 dBm
+199.009999999999991;A2;C03;    · max_bandwidth = 1
+199.009999999999991;A2;C03;  - Performance:
+199.009999999999991;A2;C03;    · Average throughput = 110.66 Mbps
+199.009999999999991;A2;C03;    · Average delay = 0.0057 s
+199.009999999999991;A2;C03;    · Maximum delay = 0.0057 s
+199.009999999999991;A2;C03;    · Minimum delay = 0.0057 s
+199.009999999999991;A2;C03;    · Associated reward = 0.000000
+200.000000000000000;A2;C00; Agent Stop()
