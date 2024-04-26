@@ -1,0 +1,5 @@
+Wlan code;centralized;time between requests (seconds);actions channels;actions cca (dBm);actions tx power (dBm);max_bw;reward;learning mechanism;selected_strategy
+A;0;1;0;-82,-78,-76,-74,-72,-70,-68,-66,-64,-62;20;1;1;1;1
+B;0;1;0;-82,-78,-76,-74,-72,-70,-68,-66,-64,-62;20;1;1;1;1
+C;0;1;0;-82,-78,-76,-74,-72,-70,-68,-66,-64,-62;20;1;1;1;1
+D;0;1;0;-82,-78,-76,-74,-72,-70,-68,-66,-64,-62;20;1;1;1;1
