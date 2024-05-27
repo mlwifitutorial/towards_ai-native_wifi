@@ -5,9 +5,9 @@ Materials of the paper "Machine Learning &amp; Wi-Fi: Unveiling the Path towards
 
 ```
 @article{wilhelmi2024machine,
-  title={Machine Learning &amp; Wi-Fi: Unveiling the Path towards AI-native IEEE 802.11 Networks},
+  title={Machine Learning \& Wi-Fi: Unveiling the Path Towards AI/ML-Native IEEE 802.11 Networks},
   author={Wilhelmi, Francesc and Szott, Szymon and Kosek-Szott, Katarzyna and Bellalta, Boris},
-  journal={arXiv preprint arXiv:xxx},
+  journal={arXiv preprint arXiv:2405.11504},
   year={2024}
 }
 ```
