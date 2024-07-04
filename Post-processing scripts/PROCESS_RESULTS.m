@@ -381,13 +381,20 @@ s.LegendLabels = {'DCF', 'Agent/DEC 11axSR', 'Agent/COORD 11axSR', 'Agent/DEC Fr
 s.LegendHandle.FontSize = 12;
 s.LegendHandle.NumColumns = 2;
 s.LegendHandle.Interpreter = 'latex';
-s.LineStyle = {'-',':','--',':','--'};
+%s.LineStyle = {'-',':','--',':','--'};
+%s.AxesInterval = 2;
+%s.FillOption = {'on', 'off', 'on', 'off', 'on'};
+%s.Color = [184,84,80; 108,142,191; 108,142,191; 130,179,102; 130,179,102]./255;
+%s.FillTransparency = [0.3, 0.2, 0.1, 0.1, 0.1];
+%s.LineTransparency = [.5, .5, 1, 1, 1];
+%s.LineWidth = [1.5, 1.5, 1.5, 1.5, 1.5];
+s.LineStyle = {'-',':','--','-','--'};
 s.AxesInterval = 2;
-s.FillOption = {'on', 'off', 'on', 'off', 'on'};
-s.Color = [184,84,80; 108,142,191; 108,142,191; 130,179,102; 130,179,102]./255;
-s.FillTransparency = [0.3, 0.2, 0.1, 0.1, 0.1];
-s.LineTransparency = [.5, .5, 1, 1, 1];
-s.LineWidth = [1.5, 1.5, 1.5, 1.5, 1.5];
+s.FillOption = {'on', 'on', 'on', 'on', 'off'};
+s.Color = [253,231,37; 31,158,137; 68,1,84; 109,205,89; 49,104,142]./255;
+s.FillTransparency = [0.1, 0.01, 0.01, 0.01, 0.1];
+s.LineTransparency = [1, 1, 1, 1, 1];
+s.LineWidth = [1.5, 1.25, 1.5, 1.5, 1.25];
 s.AxesLabels = {sprintf('Throughput\nreliability(Mbps)'), sprintf('Throughput\nmedian(Mbps)'), sprintf('Peak\nthroughput(Mbps)'), ...
     sprintf('Zero-latency\nreliability (ms)'), sprintf('Zero-latency\nmedian (ms)'), sprintf('Peak\nZero-latency (ms)'), ...
     sprintf('Airtime\nreliability (%%)'), sprintf('Airtime\nmedian (%%)'), sprintf('Peak\nairtime (%%)')};
