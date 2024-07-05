@@ -388,14 +388,17 @@ s.LegendHandle.Interpreter = 'latex';
 %s.FillTransparency = [0.3, 0.2, 0.1, 0.1, 0.1];
 %s.LineTransparency = [.5, .5, 1, 1, 1];
 %s.LineWidth = [1.5, 1.5, 1.5, 1.5, 1.5];
-s.LineStyle = {'-',':','--','-','--'};
+%s.AxesLabels = {sprintf('Throughput\nreliability(Mbps)'), sprintf('Throughput\nmedian(Mbps)'), sprintf('Peak\nthroughput(Mbps)'), ...
+    sprintf('Zero-latency\nreliability (ms)'), sprintf('Zero-latency\nmedian (ms)'), sprintf('Peak\nZero-latency (ms)'), ...
+    sprintf('Airtime\nreliability (%%)'), sprintf('Airtime\nmedian (%%)'), sprintf('Peak\nairtime (%%)')};
+s.LineStyle = {'-','-','--','-','--'};
 s.AxesInterval = 2;
 s.FillOption = {'on', 'on', 'on', 'on', 'off'};
-s.Color = [253,231,37; 31,158,137; 68,1,84; 109,205,89; 49,104,142]./255;
-s.FillTransparency = [0.1, 0.01, 0.01, 0.01, 0.1];
+s.Color = [253,231,37; 94, 201, 98; 94, 201, 98;68, 1, 84; 68, 1, 84]./255;
+s.FillTransparency = [0.4, 0.05, 0.05, 0.05, 0.05];
 s.LineTransparency = [1, 1, 1, 1, 1];
-s.LineWidth = [1.5, 1.25, 1.5, 1.5, 1.25];
-s.AxesLabels = {sprintf('Throughput\nreliability(Mbps)'), sprintf('Throughput\nmedian(Mbps)'), sprintf('Peak\nthroughput(Mbps)'), ...
+s.LineWidth = [1.25, 1.25, 1.25, 1.25, 1.25];
+s.AxesLabels = {sprintf('Throughput\nreliability(Mbps)'), sprintf('Throughput\nmedian(Mbps)'), sprintf('Throughput\npeak(Mbps)'), ...
     sprintf('Zero-latency\nreliability (ms)'), sprintf('Zero-latency\nmedian (ms)'), sprintf('Peak\nZero-latency (ms)'), ...
     sprintf('Airtime\nreliability (%%)'), sprintf('Airtime\nmedian (%%)'), sprintf('Peak\nairtime (%%)')};
 s.AxesFont = 'Times New Roman';
