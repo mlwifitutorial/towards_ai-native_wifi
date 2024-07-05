@@ -389,8 +389,8 @@ s.LegendHandle.Interpreter = 'latex';
 %s.LineTransparency = [.5, .5, 1, 1, 1];
 %s.LineWidth = [1.5, 1.5, 1.5, 1.5, 1.5];
 %s.AxesLabels = {sprintf('Throughput\nreliability(Mbps)'), sprintf('Throughput\nmedian(Mbps)'), sprintf('Peak\nthroughput(Mbps)'), ...
-    sprintf('Zero-latency\nreliability (ms)'), sprintf('Zero-latency\nmedian (ms)'), sprintf('Peak\nZero-latency (ms)'), ...
-    sprintf('Airtime\nreliability (%%)'), sprintf('Airtime\nmedian (%%)'), sprintf('Peak\nairtime (%%)')};
+%    sprintf('Zero-latency\nreliability (ms)'), sprintf('Zero-latency\nmedian (ms)'), sprintf('Peak\nZero-latency (ms)'), ...
+%    sprintf('Airtime\nreliability (%%)'), sprintf('Airtime\nmedian (%%)'), sprintf('Peak\nairtime (%%)')};
 s.LineStyle = {'-','-','--','-','--'};
 s.AxesInterval = 2;
 s.FillOption = {'on', 'on', 'on', 'on', 'off'};
