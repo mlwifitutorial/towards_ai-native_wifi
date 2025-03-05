@@ -1,15 +1,20 @@
-# towards_ai-native_wifi
-Materials of the paper "Machine Learning &amp; Wi-Fi: Unveiling the Path towards AI-native IEEE 802.11 Networks"
+# Machine Learning and Wi-Fi: Unveiling the Path Toward AI/ML-Native IEEE 802.11 Networks
+
+Materials of the paper "Machine Learning and Wi-Fi: Unveiling the Path Toward AI/ML-Native IEEE 802.11 Networks"
 
 ''BibTeX'' citation:
 
 ```
 @article{wilhelmi2024machine,
-  title={Machine Learning \& Wi-Fi: Unveiling the Path Towards AI/ML-Native IEEE 802.11 Networks},
   author={Wilhelmi, Francesc and Szott, Szymon and Kosek-Szott, Katarzyna and Bellalta, Boris},
-  journal={arXiv preprint arXiv:2405.11504},
-  year={2024}
-}
+  journal={IEEE Communications Magazine}, 
+  title={Machine Learning and Wi-Fi: Unveiling the Path Toward AI/ML-Native IEEE 802.11 Networks}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Wireless fidelity;Artificial intelligence;IEEE 802.11 Standard;Computational modeling;3GPP;Costs;Standards;Data models;Protocols;Computer architecture},
+  doi={10.1109/MCOM.001.2400292}}
 ```
 
 ## Table of Contents
