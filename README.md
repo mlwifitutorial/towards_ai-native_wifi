@@ -46,3 +46,7 @@ This repository contains the necessary files to generate the results included in
 To reproduce the experiments done in this paper, select the files in the "Komondor input" folder and copy them into the input folder of Komondor (see simulator's running instructions [here](https://github.com/wn-upf/Komondor)). Then, run the different scripts (e.g., "Komondor input/script_aiml_magazine.sh").
 
 Once simulations are done, use the scripts in "/Post-processing scripts" in Matlab.
+
+## Acknowledgments
+
+This paper is supported by the CHIST-ERA Wireless AI 2022 call MLDR project (ANR-23-CHR4-0005), partially funded by AEI and NCN under projects PCI2023-145958-2 and 2023/05/Y/ST7/00004, respectively. B. Bellalta’s contribution is supported by Wi-XR PID2021-123995NB-I00 (MCIU/ AEI/FEDER,UE) and MdM CEX2021-001195-M/ AEI/10.13039/501100011033.
